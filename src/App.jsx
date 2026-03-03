@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+﻿import { useEffect } from "react";
 import { Routes, Route, useLocation, useNavigate } from "react-router-dom";
 import i18n from "./i18n";
 
@@ -54,14 +54,13 @@ export default function App() {
   const location = useLocation();
   const navigate = useNavigate();
 
-  // LANGUAGE HANDLER FIXED
+  // ---- LANGUAGE HANDLER ----
   useEffect(() => {
     const params = new URLSearchParams(location.search);
     let lang = params.get("language");
 
-    const allowed = ["lv", "ru", "en"];
+    const allowed = ["lv", "ru", "en", "de", "el"]; // в†ђ РґРѕР±Р°РІРёР»Рё Greek
 
-    // Default language = LV
     if (!lang) {
       lang = "lv";
       params.set("language", lang);
@@ -69,7 +68,6 @@ export default function App() {
       return;
     }
 
-    // Wrong language → force LV
     if (!allowed.includes(lang)) {
       lang = "lv";
       params.set("language", lang);
@@ -77,7 +75,6 @@ export default function App() {
       return;
     }
 
-    // Apply language
     if (i18n.language !== lang) {
       i18n.changeLanguage(lang);
     }
@@ -89,9 +86,9 @@ export default function App() {
       <Header />
 
       <Routes>
-        {/* ------------------------------------ */}
+        {/* ---------------------- */}
         {/* MAIN PAGE */}
-        {/* ------------------------------------ */}
+        {/* ---------------------- */}
         <Route
           path="/"
           element={
@@ -105,46 +102,53 @@ export default function App() {
           }
         />
 
-        {/* ------------------------------------ */}
+        {/* ---------------------- */}
         {/* REPAIRS MAIN */}
-        {/* ------------------------------------ */}
+        {/* ---------------------- */}
         <Route path="/remonts-un-apdare" element={<RepairsHome />} />
         <Route path="/remont-i-otdelka" element={<RepairsHome />} />
         <Route path="/renovation-and-finishing" element={<RepairsHome />} />
+        <Route path="/anakainisi-kai-diakosmisi" element={<RepairsHome />} />
 
-        {/* ------------------------------------ */}
-        {/* REPAIRS → CATEGORIES */}
-        {/* ------------------------------------ */}
+        {/* ---------------------- */}
+        {/* REPAIRS в†’ CATEGORIES */}
+        {/* ---------------------- */}
         <Route path="/standarta-remonts" element={<Standard />} />
         <Route path="/standart-remont" element={<Standard />} />
         <Route path="/standard-renovation" element={<Standard />} />
+        <Route path="/standard-anakainisi" element={<Standard />} />
 
         <Route path="/premium-klases-remonts" element={<Premium />} />
         <Route path="/premium-remont" element={<Premium />} />
         <Route path="/premium-renovation" element={<Premium />} />
+        <Route path="/premium-anakainisi" element={<Premium />} />
 
         <Route path="/vip-remonts" element={<VIP />} />
         <Route path="/vip-remont" element={<VIP />} />
         <Route path="/vip-renovation" element={<VIP />} />
+        <Route path="/vip-anakainisi" element={<VIP />} />
 
-        {/* ------------------------------------ */}
-        {/* REPAIRS → CLIENTS */}
-        {/* ------------------------------------ */}
+        {/* ---------------------- */}
+        {/* REPAIRS в†’ CLIENTS */}
+        {/* ---------------------- */}
         <Route path="/dzivokla-remonts-riga" element={<Apartments />} />
         <Route path="/remont-kvartir-riga" element={<Apartments />} />
         <Route path="/apartment-renovation" element={<Apartments />} />
+        <Route path="/anakainisi-diamerismatos-riga" element={<Apartments />} />
 
         <Route path="/privatmaju-remonts" element={<Houses />} />
         <Route path="/remont-kottedzhey" element={<Houses />} />
         <Route path="/house-renovation" element={<Houses />} />
+        <Route path="/anakainisi-katoikias" element={<Houses />} />
 
         <Route path="/biroju-remonts" element={<Offices />} />
         <Route path="/remont-ofisov" element={<Offices />} />
         <Route path="/office-renovation" element={<Offices />} />
+        <Route path="/anakainisi-grafeiou" element={<Offices />} />
 
-        {/* ------------------------------------ */}
-        {/* REPAIRS → TECHNOLOGIES */}
-        {/* ------------------------------------ */}
+        {/* ---------------------- */}
+        {/* REPAIRS в†’ TECHNOLOGIES */}
+        {/* ---------------------- */}
         <Route
           path="/griestu-apdare-riga-cena-no-eurodizains"
           element={<Ceilings />}
@@ -157,10 +161,12 @@ export default function App() {
           path="/ceiling-finishing-riga-price-from-eurodizains"
           element={<Ceilings />}
         />
+        <Route path="/aploma-oyranofonias-riga" element={<Ceilings />} />
 
         <Route path="/gridu-remonts-riga-eurodizains" element={<Floors />} />
         <Route path="/remont-polov-v-rige-eurodizains" element={<Floors />} />
         <Route path="/floor-renovation-riga-eurodizains" element={<Floors />} />
+        <Route path="/anakainisi-dapedon-riga" element={<Floors />} />
 
         <Route
           path="/santehniskie-darbi-santehniskie-pakalpojumi-riga"
@@ -174,19 +180,21 @@ export default function App() {
           path="/plumbing-services-and-plumbing-works-riga"
           element={<Plumbing />}
         />
+        <Route path="/ydravlika-ergasies-riga" element={<Plumbing />} />
 
         <Route
           path="/sienu-apdare-riga-cena-no-eurodizains"
           element={<Walls />}
         />
         <Route
-          path="/otdelka-sten-v-rige-cena-от-eurodizains"
+          path="/otdelka-sten-v-rige-cena-РѕС‚-eurodizains"
           element={<Walls />}
         />
         <Route
           path="/wall-finishing-riga-price-from-eurodizains"
           element={<Walls />}
         />
+        <Route path="/epifania-toichon-riga" element={<Walls />} />
 
         <Route path="/elektromontazas-darbi-riga" element={<Electrics />} />
         <Route
@@ -197,10 +205,12 @@ export default function App() {
           path="/electrical-installation-works-riga"
           element={<Electrics />}
         />
+        <Route path="/ilektrologikes-ergasies-riga" element={<Electrics />} />
 
         <Route path="/ailu-ierikosana" element={<Openings />} />
         <Route path="/ustroystvo-proemov" element={<Openings />} />
         <Route path="/doorway-installation-riga" element={<Openings />} />
+        <Route path="/kataskevi-anoigmaton" element={<Openings />} />
 
         <Route
           path="/demontazas-darbi-cenas-no-eurodizains"
@@ -214,6 +224,7 @@ export default function App() {
           path="/demolition-works-prices-from-eurodizains"
           element={<Demolition />}
         />
+        <Route path="/katedafiseis-ergasies-riga" element={<Demolition />} />
 
         <Route
           path="/apdares-darbi-cenas-riga-dzivoklu-un-maju-iekseja-apdare"
@@ -227,22 +238,26 @@ export default function App() {
           path="/finishing-works-riga-interior-finishing-for-homes-and-flats"
           element={<Finishing />}
         />
+        <Route
+          path="/telikes-ergasies-esoterikou-chorou"
+          element={<Finishing />}
+        />
 
-        {/* ------------------------------------ */}
+        {/* ---------------------- */}
         {/* DESIGN MAIN */}
-        {/* ------------------------------------ */}
+        {/* ---------------------- */}
         <Route path="/interjera-dizains-riga" element={<DesignHome />} />
         <Route path="/dizayn-interera-v-rige" element={<DesignHome />} />
         <Route path="/interior-design-riga" element={<DesignHome />} />
+        <Route path="/design-esoterikou-chorou-riga" element={<DesignHome />} />
 
-        {/* ------------------------------------ */}
+        {/* ---------------------- */}
         {/* DESIGN PROJECT PAGES */}
-        {/* ------------------------------------ */}
-        {/* Design → Composition */}
-        {/* Design → Project Composition / Content */}
+        {/* ---------------------- */}
         <Route path="/dizaina-projekta-sastavs" element={<Composition />} />
         <Route path="/sostav-dizayn-proekta" element={<Composition />} />
         <Route path="/interior-design-composition" element={<Composition />} />
+        <Route path="/synthesi-design-proetou" element={<Composition />} />
 
         <Route
           path="/dizaina-projekts-standard"
@@ -256,6 +271,7 @@ export default function App() {
           path="/interior-design-project-standard"
           element={<ProjectStandard />}
         />
+        <Route path="/design-proeto-standard" element={<ProjectStandard />} />
 
         <Route path="/dizaina-projekts-premium" element={<ProjectPremium />} />
         <Route path="/dizayn-proekt-premium" element={<ProjectPremium />} />
@@ -263,13 +279,16 @@ export default function App() {
           path="/interior-design-project-premium"
           element={<ProjectPremium />}
         />
+        <Route path="/design-proeto-premium" element={<ProjectPremium />} />
 
         <Route path="/dizaina-projekts-vip" element={<ProjectVip />} />
         <Route path="/dizayn-proekt-vip" element={<ProjectVip />} />
         <Route path="/interior-design-project-vip" element={<ProjectVip />} />
+        <Route path="/design-proeto-vip" element={<ProjectVip />} />
 
         <Route path="/3d-vizualizacija" element={<Visualization3D />} />
         <Route path="/3d-vizualizaciya" element={<Visualization3D />} />
+        <Route path="/3d-visualization" element={<Visualization3D />} />
         <Route path="/3d-visualization" element={<Visualization3D />} />
 
         <Route
@@ -284,6 +303,10 @@ export default function App() {
           path="/interior-design-author-supervision"
           element={<AuthorSupervision />}
         />
+        <Route
+          path="/epopteia-schediasmou-esoterikou-chorou"
+          element={<AuthorSupervision />}
+        />
 
         <Route path="/garantija" element={<DesignGuarantees />} />
         <Route path="/garantii-0" element={<DesignGuarantees />} />
@@ -291,6 +314,7 @@ export default function App() {
           path="/interior-design-warranty"
           element={<DesignGuarantees />}
         />
+        <Route path="/engyisi-design" element={<DesignGuarantees />} />
 
         <Route
           path="/atlaides-interjera-dizainam"
@@ -304,14 +328,14 @@ export default function App() {
           path="/interior-design-discounts"
           element={<DesignDiscounts />}
         />
+        <Route
+          path="/ekptoseis-design-esoterikou-chorou"
+          element={<DesignDiscounts />}
+        />
 
-        <Route path="/dizaina-projekta-sastavs" element={<Composition />} />
-        <Route path="/sostav-dizayn-proekta" element={<Composition />} />
-        <Route path="/interior-design-composition" element={<Composition />} />
-
-        {/* ------------------------------------ */}
+        {/* ---------------------- */}
         {/* DESIGN CLIENT TYPES */}
-        {/* ------------------------------------ */}
+        {/* ---------------------- */}
         <Route
           path="/dizains-un-dzivoklu-remonts"
           element={<LivingRoomDesign />}
@@ -321,22 +345,27 @@ export default function App() {
           path="/apartment-interior-design"
           element={<LivingRoomDesign />}
         />
+        <Route path="/design-diamerismatos" element={<LivingRoomDesign />} />
 
         <Route path="/node/289" element={<HouseDesign />} />
         <Route path="/majas-dizains" element={<HouseDesign />} />
         <Route path="/house-interior-design" element={<HouseDesign />} />
+        <Route path="/design-katoikias" element={<HouseDesign />} />
 
         <Route path="/dekoresana" element={<Decoration />} />
         <Route path="/dekorirovanie" element={<Decoration />} />
         <Route path="/interior-decor" element={<Decoration />} />
+        <Route path="/diakosmisi-esoterikou-chorou" element={<Decoration />} />
 
         <Route path="/telpu-dizains" element={<InteriorDesign />} />
         <Route path="/dizayn-pomeshcheniy" element={<InteriorDesign />} />
         <Route path="/interior-design" element={<InteriorDesign />} />
+        <Route path="/design-esoterikon-choron" element={<InteriorDesign />} />
 
         <Route path="/biroju-dizains" element={<OfficeDesign />} />
         <Route path="/dizayn-ofisov" element={<OfficeDesign />} />
         <Route path="/office-interior-design" element={<OfficeDesign />} />
+        <Route path="/design-grafeion" element={<OfficeDesign />} />
 
         <Route
           path="/kafejnicas-un-restorana-dizains"
@@ -347,11 +376,14 @@ export default function App() {
           path="/restaurant-interior-design"
           element={<RestaurantDesign />}
         />
+        <Route path="/design-estiatopion" element={<RestaurantDesign />} />
 
         <Route path="/naktsklubu-dizains" element={<ClubDesign />} />
         <Route path="/dizayn-nochnogo-kluba" element={<ClubDesign />} />
         <Route path="/nightclub-interior-design" element={<ClubDesign />} />
+        <Route path="/design-nychtinou-klubou" element={<ClubDesign />} />
       </Routes>
     </>
   );
 }
+

@@ -5,6 +5,7 @@ import { useTranslation } from "react-i18next";
 import { ArrowRight, Sparkles, LayoutGrid } from "lucide-react";
 import { useState } from "react";
 import ContactPopup from "../../components/ContactPopup";
+import { Helmet } from "react-helmet";
 
 export default function RepairsHome() {
   const { t } = useTranslation();
@@ -15,6 +16,30 @@ export default function RepairsHome() {
 
   return (
     <>
+      {/* Adding Helmet for managing head */}
+      <Helmet>
+        <title>{t("repairs.home.title")}</title>
+        <meta name="description" content={t("repairs.home.description")} />
+        {/* Open Graph (для социальных сетей) */}
+        <meta property="og:title" content={t("repairs.home.title")} />
+        <meta
+          property="og:description"
+          content={t("repairs.home.description")}
+        />
+        <meta property="og:image" content="link-to-image.jpg" />{" "}
+        {/* Замените на путь к изображению */}
+        <meta property="og:url" content={window.location.href} />
+        {/* Twitter Card */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={t("repairs.home.title")} />
+        <meta
+          name="twitter:description"
+          content={t("repairs.home.description")}
+        />
+        <meta name="twitter:image" content="link-to-image.jpg" />{" "}
+        {/* Замените на путь к изображению */}
+      </Helmet>
+
       <ContactPopup isOpen={showPopup} onClose={() => setShowPopup(false)} />
 
       {/* === MOBILE SIDEBAR BUTTON === */}

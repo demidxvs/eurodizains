@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
 import { Sparkles, ArrowRight, Star, Quote } from "lucide-react";
 import ContactPopup from "../components/ContactPopup";
+import { Helmet } from "react-helmet";
 
 export default function Hero({ setCurrentPage }) {
   const { t } = useTranslation();
@@ -30,6 +31,24 @@ export default function Hero({ setCurrentPage }) {
 
   return (
     <>
+      {/* Helmet for SEO */}
+      <Helmet>
+        <title>{t("hero.title")}</title>
+        <meta name="description" content={t("hero.description")} />
+        {/* Open Graph */}
+        <meta property="og:title" content={t("hero.title")} />
+        <meta property="og:description" content={t("hero.description")} />
+        <meta property="og:image" content="link-to-image.jpg" />{" "}
+        {/* Замените на путь к изображению */}
+        <meta property="og:url" content={window.location.href} />
+        {/* Twitter Card */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={t("hero.title")} />
+        <meta name="twitter:description" content={t("hero.description")} />
+        <meta name="twitter:image" content="/public/logo.png" />{" "}
+        {/* Замените на путь к изображению */}
+      </Helmet>
+
       <ContactPopup isOpen={showPopup} onClose={() => setShowPopup(false)} />
 
       <section

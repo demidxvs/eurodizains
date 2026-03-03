@@ -10,11 +10,10 @@
   "buttons": {
     "call": "Zvanīt"
   },
-
   "hero": {
     "badge": "Profesionāls remonts",
     "title": "Iestieptie griesti",
-    "city": "Rīgā",
+    "city": "Latvijā un visās Eiropas Savienības valstīs",
     "subtitle": "Meistara izbraukums un mērījumi bez maksas, garantija līdz 20 gadiem",
     "btnConsult": "Saņemt konsultāciju",
     "btnServices": "Mūsu pakalpojumi",
@@ -54,13 +53,11 @@
     "warranty": "Kvalitātes garantija",
     "warrantyDesc": "Līdz 20 gadiem uz darbu un materiāliem"
   },
-
   "services": {
     "title": "Remonta varianti",
     "subtitle": "Izvēlieties apdares līmeni, kas atbilst jūsu telpai un dzīvesstilam.",
     "recommended": "Iesakām",
     "button": "Saņemt konsultāciju",
-
     "standard": {
       "name": "Standarts",
       "price": "no 80 €/m²",
@@ -76,7 +73,6 @@
       ],
       "note": "Dzīvoklis pilnībā gatavs dzīvošanai."
     },
-
     "premium": {
       "name": "Premium",
       "price": "no 120 €/m²",
@@ -92,7 +88,6 @@
       ],
       "note": "Maksimāls komforts un ilgmūžība."
     },
-
     "vip": {
       "name": "VIP",
       "price": "no 180 €/m²",
@@ -138,15 +133,11 @@
         "Mēs īstenojam jebkuras sarežģītības projektus – no kosmētiskā remonta līdz ekskluzīviem dizaina risinājumiem."
       ]
     },
-
     "standard": {
       "title": "Standarta remonts (Kosmētiskais remonts)",
       "cta": "Saņemt konsultāciju",
-
       "p1": "Standarta remonts – tas ir diezgan viegli īstenojams remonta veids, kas ļauj atsvaidzināt interjera izskatu. Parasti šādas apdares gadījumā dzīvokļos tiek saglabātas visas nesošās konstrukcijas, izmaiņas ir nelielas.",
-
       "p2": "Apjoms un dzīvokļa kosmētiskā remonta izmaksas ir atkarīgas no ēkas stāvokļa, sākotnējās apdares kvalitātes, ekspluatācijas laika un apstākļiem. Pirms remontdarbu sākšanas tiek veikti demontāžas darbi.",
-
       "listTitle": "Kosmētiskā dzīvokļu remonta darbu uzskaitījums:",
       "list": [
         "Daļēja sienu un griestu izlīdzināšana",
@@ -161,31 +152,22 @@
         "Santehnikas aprīkojuma demontāža un uzstādīšana",
         "Radiatoru, logu rāmju un durvju krāsošana"
       ],
-
       "p3": "Grīda: Vecā grīdas virsma parasti netiek demontēta, kas ļauj ietaupīt uz materiāliem un darbu izmaksām. Tomēr tas var nedaudz samazināt telpas augstumu. Uz esošās grīdas tiek ieklāts linolejs, lamināts vai paklājs.",
-
       "p4": "Sienas: Tiek izlīdzinātas daļēji — aptuveni 40%. Ģipša apmetums tiek uzklāts galvenajās savienojumu vietās. Tas ļauj panākt vizuāli gludu sienas izskatu, kā arī ekonomēt materiālus. Noslēguma posms — tapetes vai krāsošana.",
-
       "p5": "Griesti: Tiek veikta špaktelēšana un krāsošana 2–3 kārtās vai tiek uzstādīti iestieptie griesti.",
-
       "p6": "Elektrība: Elektroinstalācija netiek pilnībā nomainīta, pieļaujama tikai daļēja vadu nomaiņa vai rozešu pārvietošana. Jauni kabeļi tiek ievadīti zem grīdlīstēm vai ģipškartona konstrukcijās.",
-
       "p7": "Galvenā standarta remonta priekšrocība – ātrs rezultāts par saprātīgu cenu. Ja nevēlaties veikt apjomīgas pārmaiņas – šis risinājums būs optimāls.",
-
       "free": "Speciālista izsaukums un tāmes sastādīšana – bez maksas."
     },
-
     "premium": {
       "title": "Premium klases remonts",
       "cta": "Saņemt konsultāciju",
-
       "p1": "Premium klases remonts ir komplekss apdares un būvdarbu process, kurā tiek izmantotas modernas tehnoloģijas un augstas kvalitātes materiāli.",
       "p2": "Šāda līmeņa remonts ietver individuāla interjera dizaina projekta izstrādi, iespējamu pārplānošanu, komunikāciju nomaiņu, logu un durvju nomaiņu, kā arī perfekti iztaisnotas virsmas un ekskluzīvus apdares materiālus.",
       "p3": "Visus darbus veic mūsu pieredzējuši speciālisti, kas nodrošina precizitāti, kvalitāti un atbilstību pasūtītāja vēlmēm.",
       "p4": "Mēs palīdzam saprātīgi plānot budžetu, piedāvājam detalizētu tāmi un nodrošinām pilnu darbu caurskatāmību visos posmos.",
       "p5": "Premium remonta būtiskākais elements ir ideāla sienu, griestu un grīdas ģeometrija. Tieši perfektas virsmas rada luksusa interjera estētiku un kvalitāti.",
       "p6": "Premium remonts ietver demontāžu, pārplānošanu, virsmu izlīdzināšanu, santehnikas un elektrības nomaiņu, silto grīdu uzstādīšanu, parketa vai dabīgo grīdas segumu ieklāšanu, durvju montāžu un dekoratīvās apdares elementus.",
-
       "listTitle": "Premium klases remonta darbu uzskaitījums:",
       "list": [
         "Dizaina projekta izstrāde",
@@ -199,20 +181,17 @@
         "Daudzlīmeņu griestu sistēmu montāža",
         "Dekoratīvo apmetumu un ekskluzīvu pārklājumu uzklāšana"
       ],
-
       "free": "Speciālista izbraukums un tāmes sastādīšana — bez maksas."
     },
     "vip": {
       "title": "VIP remonts",
       "cta": "Saņemt konsultāciju",
       "free": "Speciālista izbraukums un tāmes sagatavošana — bez maksas.",
-
       "p1": "VIP klases dzīvokļu remontam tiek izmantoti dārgākie un modernākie materiāli un tehnoloģijas. Remonts tiek veikts tikai pēc individuāla dizaina projekta.",
       "p2": "Grīdai šādas klases remontā piemēroti visaugstākās kvalitātes segumi, piemēram, daudzkrāsains pils parkets vai mākslinieciskā mozaīka, kas ļauj izveidot unikālu rakstu un pilnībā pārvērst interjeru.",
       "p3": "Griesti var būt izgatavoti no augstas kvalitātes sendviča tipa sistēmām, kuras nodrošina lielisku skaņas absorbciju. Pēc vajadzības tiek izmantoti franču iestieptie griesti ar apgaismojumu un māksliniecisku apgleznošanu.",
       "p4": "Sienu apdarē tiek izmantoti dabīgi materiāli: dabīgais akmens, vitrāžas, mākslinieciskie kalumi, zīda, brokāta un samta drapējumi. Kolonnu materiāli — ģipsis un marmors — nodrošina gan izturību, gan estētiku.",
       "p5": "Obligāts VIP remonta posms ir ekskluzīvu dekoru elementu atlase: skulptūras, gleznas, gobelēni, antikvāras mēbeles, kas piešķir telpai pilnīgu individualitāti.",
-
       "listTitle": "VIP klases remonta darbu uzskaitījums:",
       "list": [
         "Pārplānošana",
@@ -233,11 +212,9 @@
         "Sienu un griestu mākslinieciska apgleznošana jebkurā stilā"
       ]
     },
-
     "apartments": {
       "title": "Dzīvokļu remonts Rīgā",
       "cta": "Saņemt konsultāciju",
-
       "text": [
         "Mēs nodarbojamies ar interjera dizaina izstrādi un pilnu dzīvokļu remonta realizāciju kopš 2010. gada.",
         "Mūsu komandā strādā 8 meistari ar lielu pieredzi, kuri var veikt jebkuras sarežģītības dzīvokļu remontu.",
@@ -245,7 +222,6 @@
         "Kompleksais dzīvokļu remonts ļauj ietaupīt laiku un spēkus — profesionāļi veic visus darbus no sākuma līdz beigām.",
         "Standarta remonta izmaksas ir zemākas nekā Premium un VIP klasēm, jo dizaina projekts nav nepieciešams."
       ],
-
       "advantages": {
         "title": "Mūsu priekšrocības",
         "list": [
@@ -257,7 +233,6 @@
           "Atlaides materiāliem un mēbelēm līdz 30%"
         ]
       },
-
       "guarantees": {
         "title": "Mūsu garantijas",
         "list": [
@@ -268,7 +243,6 @@
           "Bezmaksas konsultācijas"
         ]
       },
-
       "steps": {
         "title": "Kā noris darbi?",
         "list": [
@@ -280,12 +254,10 @@
         ]
       }
     },
-
     "houses": {
       "title": "Privātmāju remonts",
       "cta": "Pasūtīt konsultāciju",
       "free": "Bezmaksas konsultācija un tāmes sagatavošana",
-
       "text": [
         "Uzņēmums EUROdizains veic privātmāju remontu un apdares darbus trīs kategorijās: STANDARD – kosmētiskais remonts, PREMIUM – eiroremonts, VIP – premium klases remonts.",
         "Mēs veicam pilnu darba spektru Jūsu privātmājā — no projekta izstrādes līdz atkritumu izvešanai un uzkopšanai pēc remonta.",
@@ -298,7 +270,6 @@
         "Modernas tehnoloģijas un kvalitatīvi risinājumi samazina darbu ilgumu un nodrošina lielisku rezultātu.",
         "Mēs piepildīsim jebkuru Jūsu ieceri — pasūtiet privātmājas remontu pie EUROdizains!"
       ],
-
       "listTitle": "Montāžas un apdares darbi ietver:",
       "list": [
         "Apšūtu karkassienu un bīdamu starpsienu ierīkošanu",
@@ -312,12 +283,10 @@
         "Balkonu un lodžiju norobežošanu ar dažādu materiālu izstrādājumiem"
       ]
     },
-
     "offices": {
       "title": "Biroju remonts",
       "cta": "Pasūtīt konsultāciju",
       "free": "Bezmaksas tāmes sastādīšana un konsultācija",
-
       "text": [
         "Lielāko daļu laika mēs pavadām darbā, tāpēc biroja komfortam ir jābūt tikpat augstā līmenī kā mājās.",
         "EUROdizains veic biroju, mazumtirdzniecības un citu komerctelpu remontu Rīgā un reģionos.",
@@ -329,7 +298,6 @@
         "Mums ir valsts licence visiem darbu veidiem, un mēs garantējam rezultāta kvalitāti.",
         "EUROdizains palīdzēs īstenot jebkuru Jūsu ideju un izveidot darba vidi, kurā patīkami strādāt!"
       ],
-
       "listTitle": "Darbi, ko veicam biroju remontā:",
       "list": [
         "Biroju telpu remonts un apdare",
@@ -339,12 +307,10 @@
         "Vispārējie būvdarbi un apdares darbi"
       ]
     },
-
     "ceilings": {
       "title": "Griestu apdare Rīgā",
       "cta": "Pasūtīt konsultāciju",
       "free": "Bezmaksas tāmes sastādīšana un konsultācija",
-
       "text": [
         "Ne tikai mēbeles un svaigs remonts padara telpu mājīgu un komfortablu. Griesti interjerā ieņem vienu no svarīgākajām lomām — tie var padarīt guļamistabu mierīgu, viesistabu plašu un mājīgu, bet virtuvi gaišu.",
         "Vispirms ir jāizlemj par dizaina un krāsu risinājumu, pēc tam jāizvēlas griestu apdares veids.",
@@ -357,7 +323,6 @@
         "Strādājot ar mums, jūs saņemsiet garantētu darba kvalitāti, konsultācijas un elastīgu atlaides sistēmu.",
         "Ja jūs interesē griestu apdare Rīgā — zvaniet mums pa tālruni +371 22469222. EUROdizains – ātri un kvalitatīvi!"
       ],
-
       "listTitle": "Griestu apdares veidi:",
       "list": [
         "Krāsotie griesti",
@@ -366,12 +331,10 @@
         "Iestieptie griesti (plēves vai auduma veidā)"
       ]
     },
-
     "floors": {
       "title": "Grīdu remonts Rīgā",
       "cta": "Pasūtīt konsultāciju",
       "free": "Bezmaksas konsultācija un tāmes sastādīšana",
-
       "text": [
         "Uzņēmums EUROdizains jau vairāk nekā 5 gadus veic dažādas sarežģītības remonta darbus dzīvokļos, privātmājās un birojos Rīgā.",
         "Mēs piedāvājam profesionālu grīdu remontu ar 3 gadu garantiju un individuālu pieeju katram klientam.",
@@ -384,7 +347,6 @@
         "Mēs piedāvājam zemas cenas, maksājumu sadalījumu un darbu tikai ar līgumu.",
         "EUROdizains – grīdu remonts Rīgā, ātri, uzticami un ar garantētu kvalitāti!"
       ],
-
       "listTitle": "Mūsu grīdu remonta pakalpojumi:",
       "list": [
         "Cementa-smilšu un pašizlīdzinošās grīdas segumi",
@@ -397,7 +359,6 @@
         "Grīdas gruntēšana un virsmas sagatavošana"
       ]
     },
-
     "plumbing": {
       "title": "Santehniskie darbi Rīgā",
       "intro": "EUROdizains piedāvā profesionālus santehniskos pakalpojumus Rīgā un reģionā ar garantiju un individuālu pieeju.",
@@ -431,7 +392,6 @@
       "contactText": "Ja jūs interesē santehnisko darbu cenas vai cita informācija, lūdzu, zvaniet mums pa tālruni: +371 22469222",
       "cta": "Zvanīt tagad"
     },
-
     "walls": {
       "intro": "Sienu apdare Rīgā – cena no EUROdizains",
       "title": "Sienu apdare Rīgā – EUROdizains",
@@ -459,7 +419,6 @@
       "contactText": "Ja jūs interesē sienu apdare – cena, veidi vai cita informācija, zvaniet mums pa tālruni:",
       "cta": "Sazināties ar mums"
     },
-
     "electrics": {
       "intro": "Elektromontāžas darbi Rīgā",
       "title": "Elektromontāžas darbi – EUROdizains",
@@ -500,7 +459,6 @@
       "contactText": "Interesē elektromontāžas darbi? Sīkāku informāciju uzzināsiet, zvanot mums:",
       "cta": "Sazināties ar mums"
     },
-
     "openings": {
       "intro": "Ailu ierīkošana Rīgā",
       "title": "Ailu ierīkošana – EUROdizains",
@@ -526,7 +484,6 @@
       "contactText": "Lai saņemtu konsultāciju, zvaniet pa tālruni:",
       "cta": "Sazināties ar mums"
     },
-
     "demolition": {
       "intro": "Demontāžas darbi Rīgā",
       "title": "Demontāžas darbi – EUROdizains",
@@ -559,7 +516,6 @@
       "contactText": "Lai uzzinātu vairāk vai pasūtītu demontāžas pakalpojumu, zvaniet:",
       "cta": "Sazināties ar mums"
     },
-
     "finishing": {
       "intro": "Apdares darbi Rīgā",
       "title": "Apdares darbi – cenas Rīgā",
@@ -592,18 +548,15 @@
       "contactText": "Lai uzzinātu vairāk vai pasūtītu apdares darbus, zvaniet:",
       "cta": "Sazināties ar mums"
     },
-
     "sidebar": {
       "categories": "Kategorijas remonts",
       "standard": "Standarta remonts",
       "premium": "Premium remonts",
       "vip": "VIP remonts",
-
       "clients": "Klienti un pakalpojumi",
       "apartments": "Dzīvokļu remonts",
       "houses": "Privātmāju remonts",
       "offices": "Biroju remonts",
-
       "technology": "Remonts tehnoloģija",
       "ceilings": "Griestu apdare",
       "floors": "Grīdu remonts",
@@ -616,7 +569,6 @@
       "remonti": "Remonti"
     }
   },
-
   "design": {
     "sidebar": {
       "project": "Projekta design",
@@ -628,7 +580,6 @@
       "supervision": "Autoruzraudzība",
       "warranty": "Garantija",
       "discounts": "Atlaides",
-
       "clients": "Klienti un projekti",
       "apartments": "Dizaina dzīvokļiem",
       "houses": "Mājas dizains",
@@ -640,10 +591,9 @@
       "design": "Interjera dizains"
     },
     "home": {
-      "title": "Interjera dizains Rīgā",
+      "title": "Interjera dizains Latvijā un visās Eiropas Savienības valstīs",
       "intro": "Interjera dizains",
       "cta": "Sazināties ar mums",
-
       "paragraphs": [
         "Interjera dizains Rīgā ir diezgan izplatīts un intensīvi attīstās. Daudzi uzņēmumi sniedz dizaina pakalpojumus. Pēdējā laikā dizains sāka aktīvi attīstīties, jo pareizi noformēta telpa ir jau puse no uzņēmuma panākumiem, bet pareizi noformēts dzīvoklis ir vieta, kurp vienmēr gribas atgriezties. Mūsu uzņēmums piedāvā jums tikai profesionāla līmeņa telpu dizaina noformējumu.",
         "Mūsu kompānija EUROdizains piedāvā jums pilnu pakalpojumu komplektu:",
@@ -651,7 +601,6 @@
         "Interjera dizains Rīgā ir sadalīts divās kategorijās. Pirmā kategorija ir nedzīvojamo telpu, tirdzniecības centru, biroju noformēšana un dizains. Otrā kategorija ir dzīvojamo ēku — māju, dzīvokļu, kotedžu noformēšana un dizains.",
         "Interjera dizains Rīgā — tā ir lieliska iespēja iegūt kvalitatīvu remontu un ietaupīt laiku. Pareizi iekārtota telpa ir 50% veiksmes. Pie mums vienmēr var pasūtīt telpas remontu un dizainu, un mēs ņemam vērā visas klienta vēlmes."
       ],
-
       "listTitle": "Dizaina pakalpojumi",
       "list": [
         "3D vizualizācija",
@@ -662,11 +611,9 @@
         "Autoruzraudzība"
       ]
     },
-
     "composition": {
       "intro": "Dizaina projekta sastāvs",
       "title": "Dizaina projekta sastāvs",
-
       "text": [
         "Dizaina projekts – tas ir pilns rasējumu un vizualizāciju komplekts, kas palīdz īstenot dizainera ieceri realitātē. Bez projekta ir ļoti sarežģīti izveidot harmonisku un kvalitatīvu interjeru, jo galvenais projekta mērķis ir precīza plānošana un prognozēšana.",
         "Ja nav projekta, gala rezultāts nav prognozējams. Dizaina projekts vienmēr ir kopīgs darbs starp dizaineri un klientu. Mēs uzklausām klienta vēlmes, vienlaikus piedāvājot profesionālus risinājumus. Lai gan strādājam galvenokārt Rīgā, projektus izstrādājam arī klientiem no citām pilsētām.",
@@ -676,14 +623,12 @@
         "Projektus vienmēr izstrādājam, ņemot vērā klienta individuālās vēlmes. Mūsu cenas ir pieejamas, un darbu veicam noteiktajos termiņos.",
         "Tieši mūsu studijas dizaineri nodrošina kvalitatīvu un profesionālu dizaina projekta sastāvu."
       ],
-
       "typesTitle": "Dizaina projektu veidi",
       "types": [
         "Dizaina projekts “Standard” – ietver nepieciešamos rasējumus kvalitatīvam remontam un telpu 3D vizualizāciju.",
         "Dizaina projekts “Premium” – pilns rasējumu komplekts ar vizualizācijām, materiālu, mēbeļu un apgaismojuma specifikācijām.",
         "Dizaina projekts “VIP” – pilna servisa pakete: rasējumi, vizualizācijas, materiālu atlase, autoruzraudzība un dekorēšana."
       ],
-
       "structureTitle": "Dizaina projekta sastāvs",
       "structure": [
         "Mērījumu plāns",
@@ -709,20 +654,16 @@
         "3D Max kameru izvietojuma plāns",
         "Video vizualizācija"
       ],
-
       "faqTitle": "Biežāk uzdotie jautājumi",
       "faq": [
         "Vai dizaina projektu ir iespējams izstrādāt patstāvīgi? — Praktiski nē.",
         "Vai var pasūtīt tikai daļu no projekta? — Nav ieteicams, jo projekts ir vienota dizaina ideja."
       ],
-
       "cta": "Sazināties ar mums"
     },
-
     "standard": {
       "intro": "Dizaina projekts “Standard”",
       "title": "Dizaina projekts “Standard”",
-
       "text": [
         "Ja vēlaties minimālu budžetu un jau zināt savas idejas, varat izvēlēties dizaina projekta “Standard” paketi. Tā ietver tikai nepieciešamos rasējumus un vizualizācijas.",
         "Materiālu izvēle paliek jūsu ziņā, jo šajā paketē specifikācijas nav iekļautas.",
@@ -730,7 +671,6 @@
         "Mēs varam ieteikt piemērotākos veikalus un risinājumus jūsu ideju realizācijai.",
         "Šī pakete nodrošina pilnvērtīgu telpu plānošanu un iespēju veikt kvalitatīvu remontu."
       ],
-
       "structureTitle": "Dizaina projekta “Standard” sastāvs",
       "structure": [
         "Mērījumu rasējums ar inženierkomunikācijām",
@@ -750,19 +690,16 @@
         "Interjera vizualizācijas (līdz 3 variantiem)",
         "3D Max kameru izvietojuma plāns"
       ],
-
       "cta": "Sazināties ar mums"
     },
     "premium": {
       "intro": "Dizaina projekts “Premium”",
       "title": "Dizaina projekts “Premium”",
-
       "text": [
         "Dizaina projekts “Premium” ir vispopulārākais un optimālākais risinājums mūsu klientu vidū. Tas ietver visplašāko rasējumu, vizualizāciju, kā arī apgaismojuma, mēbeļu un apdares materiālu specifikāciju komplektu.",
         "Lielākā daļa klientu izvēlas tieši šo projektu, jo tas nodrošina maksimāli detalizētu informāciju un palīdz izveidot harmonisku interjeru. Materiālu specifikācijā dizainers iekļauj aizvietotājus, lai klients varētu viegli atrast pieejamākas alternatīvas.",
         "Projekta “Premium” sastāvs ir balstīts uz profesionāli izstrādātu tehnisko un vizuālo informāciju, kas ļauj precīzi organizēt būvniecības un remonta procesu."
       ],
-
       "listTitle": "Projekta sastāvs",
       "list": [
         "Mērījumu rasējumi ar inženierkomunikāciju piesaisti",
@@ -786,20 +723,17 @@
         "Interjera vizualizācijas 3D Max programmā (līdz 3 variantiem visām telpām)",
         "Kameru izvietojuma plāns 3D Max programmā"
       ],
-
       "contactText": "Ja vēlaties saņemt konsultāciju vai pasūtīt projektu, sazinieties ar mums.",
       "cta": "Sazināties ar mums"
     },
     "vip": {
       "intro": "Dizaina projekts “VIP”",
       "title": "Dizaina projekts “VIP”",
-
       "text": [
         "Dizaina projekts “VIP” ir pilns un visaugstākās kvalitātes interjera dizaina pakalpojumu komplekss. Tas ir pareizākais veids, kā sasniegt perfektu rezultātu, jo projektā ietilpst pilns rasējumu, plānu un vizualizāciju kopums.",
         "Šis projekts ietver autoruzraudzību un dekorēšanu — visi darbi tiek veikti dizainera uzraudzībā, un viņš ir atbildīgs gan par materiālu izvēli, gan par darbu kvalitāti.",
         "VIP projekts tiek izstrādāts līdz pat remonta pabeigšanai, nodrošinot, ka viss tiek īstenots tieši tā, kā paredzēts projektā."
       ],
-
       "listTitle": "Projekta sastāvs",
       "list": [
         "Mērījumu rasējums ar inženierkomunikāciju piesaisti",
@@ -825,14 +759,12 @@
         "3D Max kameru izvietojuma plāns",
         "Objekta video 3D Max programmā"
       ],
-
       "contactText": "Ja vēlaties saņemt konsultāciju vai pasūtīt VIP projektu — sazinieties ar mums.",
       "cta": "Sazināties ar mums"
     },
     "visualization3d": {
       "intro": "3D vizualizācija",
       "title": "Profesionāla 3D interjera vizualizācija",
-
       "text": [
         "Mūsdienu 3D tehnoloģijas ļauj parādīt interjeru, kas vēl nepastāv dabā. Skices un rasējumi ir noderīgi, taču tie nespēj parādīt tādu realitāti, kādu nodrošina trīsdimensiju vizualizācija.",
         "3D vizualizācija ļauj ieraudzīt visas detaļas nākotnes interjerā: krāsas, faktūras, mēbeles, apgaismojumu un plānojuma risinājumus.",
@@ -843,13 +775,11 @@
         "3D vizualizācijas ietilpst projektos Standard, Premium un VIP. Klients saņem 3–4 attēlus no dažādiem rakursiem katrai telpai augstā izšķirtspējā.",
         "Vizualizācija ir pēdējais posms pirms projekta nodošanas un autoruzraudzības līguma parakstīšanas."
       ],
-
       "images": [
         "/design/visualization/1.jpg",
         "/design/visualization/2.jpg",
         "/design/visualization/3.jpg"
       ],
-
       "listTitle": "Ko nodrošina 3D vizualizācija?",
       "list": [
         "Fotoreālistisks telpas izskats",
@@ -859,14 +789,11 @@
         "Plānojuma korekciju iespējas pirms remonta",
         "Dažādi skatu rakursi katrai telpai"
       ],
-
       "cta": "Saņemt konsultāciju"
     },
-
     "supervision": {
       "intro": "Remonta autoruzraudzība",
       "title": "Remonta autoruzraudzība",
-
       "text": [
         "Lai realizētais projekts atbilstu sākotnējiem uzdevumiem un koncepcijai, būvniecību nepieciešams kontrolēt. Šim mērķim pastāv autoruzraudzība.",
         "Autoruzraudzība — tas ir pakalpojumu komplekss, kas ietver dizainera kontroli pār celtnieku darbu, lai panāktu pilnīgu darbu atbilstību apstiprinātajam dizaina projektam. Visām mēbelēm, materiāliem, krāsām un tekstilam jāatbilst specifikācijai, kas saskaņota ar pasūtītāju pirms būvniecības sākuma.",
@@ -875,7 +802,6 @@
         "Dizainerim ir tiesības pieprasīt labošanas darbus, ja tie neatbilst projektam. Tāpat pasūtītāji bieži vēlas veikt izmaiņas procesā — piemēram, pārvietot ailu vai pievienot konstrukciju — un šādās situācijās bez autora iesaistes nav iespējams iztikt.",
         "Autoruzraudzība tiek veikta visos būvniecības posmos un nodrošina profesionālu kontroli pār darbu kvalitāti."
       ],
-
       "listTitle": "Autoruzraudzības posmi",
       "list": [
         "Regulāra objekta apmeklēšana",
@@ -888,15 +814,12 @@
         "Dekoratīvo un apdares materiālu atlase un pasūtīšana",
         "Rēķinu, materiālu un iekārtu saskaņošana ar pasūtītāju"
       ],
-
       "contactText": "Lai saņemtu konsultāciju vai pasūtītu autoruzraudzību — sazinieties ar mums.",
       "cta": "Sazināties ar mums"
     },
-
     "guarantees": {
       "intro": "Garantijas",
       "title": "Dizaina pakalpojumu garantijas",
-
       "text": [
         "Mēs lieliski saprotam jūsu pārdzīvojumus, kas saistīti ar interjera dizaina pasūtījumu un gaidāmo remontu. Jūsu pārdzīvojumi ir saistīti ar to, ka:",
         "• Jūs neesat pārliecināti, ka dizainers izdarīs tieši to, ko jūs vēlaties;",
@@ -908,19 +831,15 @@
         "Mūsu Galerijā ir vairāk nekā 70 darbi — tie ir mūsu garantija.",
         "Mēs esam pārliecināti par saviem spēkiem!"
       ],
-
       "cta": "Sazināties ar mums"
     },
-
     "discounts": {
       "intro": "Atlaides interjera dizainam",
       "title": "Atlaides interjera dizaina projektiem",
-
       "text": [
         "Saviem klientiem, pasūtot interjera dizainu, mēs piedāvājam vairākas izdevīgas atlaides, kas ļauj samazināt projekta izmaksas.",
         "Atlaides attiecas uz jebkura tipa dizaina projektiem un tiek piemērotas gan dzīvokļiem, gan privātmājām."
       ],
-
       "groupsTitle": "Kolektīvs pieteikums",
       "groups": [
         "Pasūtot dizainu diviem dzīvokļiem vienā mājā – 5% atlaide",
@@ -928,18 +847,15 @@
         "Četriem un vairāk dzīvokļiem – 15% atlaide",
         "Atlaide darbojas arī uz kopā stāvošām mājām"
       ],
-
       "areaTitle": "Vairāk nekā 200 kvadrātmetri",
       "area": [
         "Ja jūsu dzīvokļa vai mājas platība pārsniedz 200 m² – 5% atlaide",
         "Objektiem virs 400 m² atlaides tiek saskaņotas individuāli"
       ],
-
       "repairTitle": "Pasūtot remontu",
       "repair": [
         "Pasūtot pie mums remontu, dizaina projektam tiek piemērota 10% atlaide"
       ],
-
       "multipleTitle": "Vairāki dzīvokļi ar vienādu plānojumu",
       "multiple": [
         "Vienam atvestam pasūtītājam – 40% personīgā atlaide",
@@ -947,65 +863,9 @@
         "Pasūtot dizaina projektu kopā ar remontu, tiek piešķirta papildus atlaide",
         "Ja jums nav laika atrast klientus – mēs to izdarīsim jūsu vietā"
       ],
-
       "ctaText": "Pasūtiet atlaidi sadaļā Kontakti vai zvaniet:",
       "cta": "Sazināties"
     },
-
-    "apartments": {
-      "intro": "Dizains un dzīvokļu remonts",
-      "title": "Dizains un dzīvokļu remonts",
-
-      "text": [
-        "Dzīvokļu dizaina īpatnības.",
-        "Dzīvokļu dizains ir īpaša dizaina joma, jo šodien pastāv dažas iezīmes, kas atšķir to no citiem interjeru.",
-        "Lielākā daļa galerijā izstādīto dizaineru studijas darbu veltīti dzīvokļu dizainam, jo šodien tie tiek uzskatīti par vispieprasītāko pakalpojumu.",
-        "Veidojot dzīvokļu dizainu, kura izmaksas mūsu studijā jūs iepriecinās, obligāti ir vērts pievērst uzmanību šādām galvenajām niansēm:",
-        "Neliela telpas platība un sarežģīts plānojums.",
-        "Daudz funkcionālo zonu.",
-        "Slikts telpas apgaismojums.",
-        "Sākot no 2010. gada, studijas speciālisti ir izstrādājuši daudzus projektus, starp kuriem ir arī dzīvokļu VIP dizains.",
-        "Pēc ilgiem darba gadiem mēs esam izstrādājuši pāris noteikumu, kurus mēs izmantojam:",
-        "Izmantot gaišus, kā arī atstarojošus materiālus.",
-        "Izmantot telpu maksimāli ērti, nišām jābūt aizvērtām.",
-        "Plānojot apgaismojumu, dot priekšroku regulējamām sistēmām."
-      ],
-
-      "services": [
-        "Izveidot dzīvokļa 3d vizualizāciju;",
-        "Izveidot 14 dažādus rasējumus;",
-        "Mēbeļu, apgaismojuma, santehnikas izvēle;",
-        "Materiālu iepirkšana citās valstīs;",
-        "Mēbeļu izgatavošana uz pasūtījuma;",
-        "Remonts un dzīvokļa dizains."
-      ],
-
-      "table": [
-        {
-          "type": "projekts “Standard”",
-          "content": "14 rasējumi + 3D vizualizācijas"
-        },
-        {
-          "type": "projekts “Premium”",
-          "content": "14 rasējumi + 3D vizualizācijas + specifikācijas"
-        },
-        {
-          "type": "projekts “VIP”",
-          "content": "14 rasējumi + 3D vizualizācijas + specifikācijas + autoruzraudzība + dekorēšana"
-        }
-      ],
-
-      "conclusion": [
-        "Veicam dizainu Rīgā un visās valsts pilsētās.",
-        "Dizainera izbraukums Rīgā ir bezmaksas.",
-        "EUROdizains piedāvā trīs dizaina paketes — Standard, Premium, VIP.",
-        "Daudzi klienti izvēlas mūsu komandu arī remontam.",
-        "Mūsu portfolio ir daudz pabeigtu projektu."
-      ],
-
-      "cta": "Sazināties"
-    },
-
     "apartments": {
       "intro": "Dizains un dzīvokļu remonts",
       "title": "Dizains un dzīvokļu remonts",
@@ -1017,13 +877,11 @@
         "Dzīvokļu dizaina izmaksas",
         "Dzīvokļu remonts"
       ],
-
       "designText": [
         "Dzīvokļu dizains ir īpaša dizaina joma, jo šodien pastāv dažas iezīmes, kas atšķir to no citiem interjeriem.",
         "Lielākā daļa mūsu studijas galerijā izstādīto darbu ir veltīti dzīvokļu dizainam, jo tas ir viens no vispieprasītākajiem pakalpojumiem.",
         "Veidojot dzīvokļu dizainu, kura izmaksas mūsu studijā jūs iepriecinās, ir svarīgi pievērst uzmanību vairākām niansēm."
       ],
-
       "rulesTitle": "Mūsu pamatprincipi",
       "rules": [
         "Neliela telpas platība un sarežģīts plānojums.",
@@ -1033,10 +891,8 @@
         "Izmantot telpu maksimāli ērti: nišām jābūt aizvērtām, lietu glabāšana integrēta.",
         "Plānojot apgaismojumu, dot priekšroku regulējamām sistēmām."
       ],
-
       "packagesTitle": "Dizaina projektu paketes",
       "packagesSubtitle": "Izvēlieties sev piemērotāko dizaina projekta sastāvu",
-
       "packages": {
         "standard": {
           "name": "Standarta projekts",
@@ -1054,10 +910,8 @@
           "composition": "14 rasējumi + 3D vizualizācijas + specifikācijas + autoruzraudzība + dekorēšana"
         }
       },
-
       "recommended": "Iesakām",
       "packagesCta": "Saņemt konsultāciju",
-
       "servicesTitle": "Ko mēs piedāvājam",
       "services": [
         "Dzīvokļa 3D vizualizāciju izstrāde",
@@ -1068,14 +922,12 @@
         "Dizainera autoruzraudzība",
         "Dzīvokļa remonts un dizaina ieviešana"
       ],
-
       "geoText": [
         "Veicam dzīvokļu dizainu Rīgā un visās Latvijas pilsētās.",
         "Rīgā dizainera izbraukums ir bezmaksas.",
         "Citos novados jāapmaksā tikai speciālista izbraukšanas izmaksas.",
         "EUROdizains piedāvā trīs projektu paketes — Standarta, Premium un VIP."
       ],
-
       "repairTitle": "Dzīvokļu remonts",
       "repairText": [
         "Galvenais mūsu mērķis ir īstenot izstrādāto dizaina projektu dzīvē.",
@@ -1085,15 +937,12 @@
         "Pie mums var pasūtīt VIP paketi vai autoruzraudzību, lai viss tiktu izdarīts precīzi pēc projekta.",
         "Mūsu portfelī ir daudz pabeigtu dzīvokļu projektu, un klienti mums uzticas."
       ],
-
       "cta": "Sazināties ar mums"
     },
-
     "houses": {
       "intro": "Mājas interjera dizains",
       "title": "Mājas dizains un remonts",
       "subtitle": "Galvenās sadaļas",
-
       "overview": [
         "Mājas interjera dizaina īpatnības",
         "Ko mēs piedāvājam",
@@ -1101,7 +950,6 @@
         "Mūsu priekšrocības",
         "Remonta darbi"
       ],
-
       "designText": [
         "Kas mājoklim piešķir siltumu un mājīgumu? Protams, oriģināls interjera dizains. Cilvēka harmonija mājā ir atkarīga no apkārtējā iekārtojuma.",
         "Padarīt savu māju ērtu un funkcionālu nav vienkārši — nepieciešama pilnīga vizualizācija un rūpīga plānošana.",
@@ -1110,7 +958,6 @@
         "Lielas telpas ļauj izmantot vairākus stilus, taču ne vienmēr ir viegli atrast harmonisku krāsu gammu un mēbeļu risinājumus.",
         "Dizaineris sagatavo skices, 3D vizualizācijas, plāno inženiertehniskos risinājumus un nodrošina projekta īstenošanu līdz dekorēšanai."
       ],
-
       "rulesTitle": "Mūsu pamatprincipi",
       "rules": [
         "Precīza plānošana un rūpīgi pārdomāts interjera stils.",
@@ -1119,10 +966,8 @@
         "Sagatavojam vairākus risinājumu variantus katrai telpai.",
         "Kontrolējam dizaina projekta izpildi realizācijas laikā."
       ],
-
       "packagesTitle": "Dizaina projektu paketes",
       "packagesSubtitle": "Izvēlieties savai mājai piemērotāko dizaina projekta sastāvu",
-
       "packages": {
         "standard": {
           "name": "Standarta mājas projekts",
@@ -1140,10 +985,8 @@
           "composition": "3D vizualizācijas + 14 rasējumi + specifikācijas + autoruzraudzība + dekorēšana"
         }
       },
-
       "recommended": "Iesakām",
       "packagesCta": "Saņemt konsultāciju",
-
       "servicesTitle": "Ko mēs piedāvājam",
       "services": [
         "Mājas interjera 3D vizualizāciju izstrāde",
@@ -1153,14 +996,12 @@
         "Autoruzraudzības nodrošināšana un mēbeļu izgatavošanas pavadījums",
         "Pilns mājas remonta cikls"
       ],
-
       "geoText": [
         "Veicam māju interjera dizainu visā Latvijā.",
         "Piedāvājam trīs projektu paketes — Standard, Premium un VIP.",
         "Projektēšanu iespējams pielāgot jebkuras sarežģītības privātmājai.",
         "Projektā iespējams veikt izmaiņas, pielāgojot to klienta vēlmēm."
       ],
-
       "repairTitle": "Mājas remonts",
       "repairText": [
         "Mājas interjera dizaina projekta izstrāde ir tikai sākums — nozīmīga ir būvnieku un dizainera sadarbība.",
@@ -1170,10 +1011,8 @@
         "Mēs nodrošināsim unikālu, mājīgu un funkcionālu interjeru visai mājai.",
         "Sīkāku informāciju varat saņemt, zvanot uz mūsu norādītajiem kontaktiem."
       ],
-
       "cta": "Sazināties ar mums"
     },
-
     "decoration": {
       "intro": "Interjera dekorēšana",
       "title": "Dekorēšana",
@@ -1212,7 +1051,6 @@
         "Darbs parasti sadalās divos posmos: skices un 3D vizualizācija, kā arī projekta īstenošana būvdarbu laikā dizainera uzraudzībā."
       ]
     },
-
     "office": {
       "intro": "Biroju dizains",
       "title": "Biroja interjera dizains",
@@ -1226,12 +1064,10 @@
         "Uzņēmuma seja ir recepcija. Šai telpai ir īpaša nozīme – tā uzsver uzņēmuma stilu, rada uzticamību un rada komfortu apmeklētājiem."
       ]
     },
-
     "restaurant": {
       "intro": "Restorānu dizains",
       "title": "Kafejnīcu un restorānu dizains",
       "cta": "Sazināties ar mums",
-
       "text": [
         "Gājienam uz restorānu vai kafejnīcu ir jādāvā prieks un jāuzlādē enerģija. Klients vienmēr novērtē interjeru pirmām kārtām, un tikai tad ēdienu un apkalpošanu.",
         "Pareizi izstrādāts dizains, mēbeles, krāsas, apgaismojums un dekori nosaka restorāna atmosfēru un panākumus.",
@@ -1241,7 +1077,6 @@
         "Dažādu stilu kombinācija zālēs bieži piesaista vairāk apmeklētāju.",
         "Mūsu mērķis — radīt mājīgu, individuālu un stilistiski sakārtotu atmosfēru."
       ],
-
       "offersTitle": "Ko mēs piedāvājam?",
       "offers": [
         "Restorānu un kafejnīcu dizains",
@@ -1249,7 +1084,6 @@
         "Individuāla pieeja, bez šabloniem",
         "Dizaina projekta izstrāde un īstenošana"
       ],
-
       "includesTitle": "Kas ietilpst projektā?",
       "includes": [
         "Rasējumi visām telpām",
@@ -1262,7 +1096,6 @@
         "Apdares materiālu tāme"
       ]
     },
-
     "club": {
       "intro": "Naktsklubu dizains",
       "title": "Naktsklubu dizains Rīgā",
@@ -1288,7 +1121,6 @@
       "cta": "Sazināties"
     }
   },
-
   "contactPopup": {
     "title": "Sazinieties ar mums",
     "phoneLabel": "Telefona numurs",

@@ -1,0 +1,1164 @@
+{
+  "nav": {
+    "home": "Heim",
+    "services": "Dienstleistungen",
+    "gallery": "Galerie",
+    "contact": "Kontakt",
+    "repairs": "Reparaturen und Endbearbeitung",
+    "design": "Innenarchitektur"
+  },
+  "buttons": {
+    "call": "Rufen Sie uns an"
+  },
+  "hero": {
+    "badge": "Professionelle Renovierung",
+    "title": "Spanndecken",
+    "city": "In Deutschland",
+    "subtitle": "Kostenloser Technikerbesuch und Messungen, bis zu 20 Jahre Garantie",
+    "btnConsult": "Lassen Sie sich beraten",
+    "btnServices": "Unsere Leistungen",
+    "stats": {
+      "experience": "jahrelange Erfahrung",
+      "projects": "Projekte",
+      "satisfaction": "Implementierung von Objekten"
+    },
+    "googleRating": {
+      "basedOn": "basierend auf Bewertungen",
+      "viewAll": "Alle Google-Bewertungen anzeigen"
+    },
+    "reviews": {
+      "review1": {
+        "name": "Rainers Kalnins",
+        "text": "Tolle Arbeit! "
+      },
+      "review2": {
+        "name": "Edgars Liepins",
+        "text": "Sehr zufrieden mit dem Ergebnis. "
+      },
+      "review3": {
+        "name": "Elena Smirnova",
+        "text": "Fantastischer Service von der Beratung bis zur Installation. "
+      }
+    }
+  },
+  "benefits": {
+    "title": "Warum sollten Sie sich für uns entscheiden?",
+    "subtitle": "Wir bieten Dienstleistungen an, die Zuverlässigkeit, Stil und hohe Qualität gewährleisten.",
+    "specialists": "Erfahrene Spezialisten",
+    "specialistsDesc": "Über 12 Jahre auf dem lettischen Markt",
+    "difficultCeilings": "Decken beliebiger Komplexität",
+    "difficultCeilingsDesc": "Von einfachen bis hin zu mehrstufigen Designs",
+    "certified": "Zertifizierte Materialien",
+    "certifiedDesc": "Hochwertige europäische Qualität",
+    "warranty": "Qualitätsgarantie",
+    "warrantyDesc": "Bis zu 20 Jahre auf Arbeit und Materialien"
+  },
+  "services": {
+    "title": "Renovierungspakete",
+    "subtitle": "Wählen Sie das Finish, das am besten zu Ihrem Raum und Lebensstil passt.",
+    "recommended": "Empfohlen",
+    "button": "Lassen Sie sich beraten",
+    "standard": {
+      "name": "Standard",
+      "price": "ab 80 €/m²",
+      "features": [
+        "Wandvorbereitung und -bearbeitung",
+        "Spanndecken oder bemalte Decken",
+        "Strapazierfähiger Laminatboden (Klasse 32)",
+        "Standard-Küchenmöbelset",
+        "Küchenrückwand – Fliesen",
+        "Elektro- und Sanitärarbeiten",
+        "Badezimmer komplett gefliest",
+        "Einbau von Innentüren"
+      ],
+      "note": "Die Wohnung ist komplett bezugsfertig."
+    },
+    "premium": {
+      "name": "Prämie",
+      "price": "ab 120 €/m²",
+      "features": [
+        "Raumrekonfiguration",
+        "Hochpräzise Wand- und Deckennivellierung",
+        "Vollständiger Austausch der elektrischen Verkabelung aus Kupfer",
+        "Austausch von Sanitär- und Versorgungseinrichtungen",
+        "Neue hochwertige Türen und Fenster",
+        "Balkonverglasung und Isolierung",
+        "Parkett, Marmor, luxuriöse Oberflächen",
+        "Spann- und abgehängte Decken"
+      ],
+      "note": "Maximaler Komfort und Haltbarkeit."
+    },
+    "vip": {
+      "name": "VIP",
+      "price": "ab 180 €/m²",
+      "features": [
+        "Individuelles Innenarchitekturprojekt",
+        "Naturstein, Mosaike, Zierputz",
+        "Säulen, Glasmalerei, kunstvolle Metallarbeiten",
+        "Exklusive Dekorationselemente",
+        "Künstlerische Wand- und Deckenmalerei",
+        "Auswahl und Lieferung hochwertiger Materialien",
+        "Versteckte technische Systeme",
+        "Jede Art von Abschlussarbeiten"
+      ],
+      "note": "Ihr Zuhause wird zu einem wahren Kunstwerk."
+    }
+  },
+  "gallery": {
+    "title": "Unsere Werke",
+    "subtitle": "Entdecken Sie unsere abgeschlossenen Projekte in der 360°-Ansicht",
+    "view360": "Ansicht in 360°",
+    "contactBtn": "Kontaktieren Sie uns",
+    "cta": "Möchten Sie mehr sehen?",
+    "item1": "Abschluss der Wandanbindung",
+    "item2": "Klassische Spanndecke",
+    "item3": "Lückenlose Decke",
+    "item4": "Schwebende Decke"
+  },
+  "contact": {
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "address": "Adresse",
+    "city": "Riga, Lettland",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "repairs": {
+    "home": {
+      "badge": "Professionelle Arbeit",
+      "title": "Renovierung und Fertigstellung",
+      "cta": "Lassen Sie sich beraten",
+      "paragraphs": [
+        "EUROdizains bietet eine breite Palette von Dienstleistungen in den Bereichen Innenarchitektur, Bau und Renovierung.",
+        "Eine qualitativ hochwertige Ausführung und die Einhaltung von Terminen haben für uns oberste Priorität. ",
+        "Wir kümmern uns um Projekte jeder Komplexität – von einfachen kosmetischen Modernisierungen bis hin zu umfassenden Luxusrenovierungen."
+      ]
+    },
+    "standard": {
+      "title": "Standardrenovierung (kosmetische Reparatur)",
+      "cta": "Holen Sie sich ein Angebot",
+      "p1": "Die Standardrenovierung ist eine einfache und praktische Art der Reparatur, die das Erscheinungsbild des Innenraums auffrischt. ",
+      "p2": "Umfang und Kosten einer Schönheitssanierung hängen vom Zustand des Gebäudes, der ursprünglichen Qualität der Ausführung sowie vom Alter und Wartungszustand des Gebäudes ab. ",
+      "listTitle": "In der Standard-(Kosmetik-)Renovierung enthaltene Arbeiten:",
+      "list": [
+        "Teilweise Wand- und Deckennivellierung",
+        "Parkettsanierung (Schleifen und Lackieren)",
+        "Restaurierung und Lackierung von Fenstern, Türen und Rahmen",
+        "Tapetenverlegung und Deckenanstrich",
+        "Installation oder Restaurierung von Spanndecken",
+        "Verlegen von Linoleum-, Laminat- oder Parkettdielen",
+        "Verlegung von Keramikfliesen",
+        "Austausch oder Verlegung von Steckdosen und Schaltern",
+        "Aus- und Einbau von Beleuchtungskörpern",
+        "Demontage und Installation von Sanitäranlagen",
+        "Lackieren von Heizkörpern, Fensterrahmen und Türen"
+      ],
+      "p3": "Boden: Der vorhandene Bodenbelag wird in der Regel nicht entfernt, was Demontage- und Materialeinsparungen ermöglicht. ",
+      "p4": "Wände: Wände werden teilweise geebnet (ca. 40 %), um Oberflächen optisch auszugleichen und Form- und Zierarbeiten zu vereinfachen. ",
+      "p5": "Decke: Es gilt der gleiche Nivellierungs- und Endbearbeitungsansatz – Verputzen und Streichen in 2–3 Schichten oder Einbau von Spanndecken.",
+      "p6": "Elektrik: Eine vollständige Neuverkabelung ist normalerweise nicht erforderlich – ein teilweiser Kabelaustausch und die Installation neuer Steckdosen sind zulässig.",
+      "p7": "Die Hauptvorteile einer Standardsanierung sind die Kosteneffizienz und die kurze Fertigstellungszeit. ",
+      "free": "Fachbesuch und Kostenvoranschlagserstellung – kostenlos!"
+    },
+    "premium": {
+      "title": "Premium-Renovierung",
+      "cta": "Lassen Sie sich beraten",
+      "p1": "Premium-Renovierung ist ein umfassender Bau- und Ausbauservice unter Verwendung moderner Technologien und hochwertiger Materialien.",
+      "p2": "Diese Renovierungsstufe umfasst die Entwicklung eines individuellen Innenarchitekturprojekts, mögliche Neuplanungen, den Austausch von Versorgungseinrichtungen, Fenstern und Türen sowie die Verwendung hochwertiger Veredelungsmaterialien.",
+      "p3": "Alle Arbeiten werden von qualifizierten Fachleuten mit umfassender Erfahrung ausgeführt, um Genauigkeit, Qualität und ein Ergebnis zu gewährleisten, das Ihren Erwartungen entspricht.",
+      "p4": "Wir helfen bei der effizienten Budgetplanung, erstellen einen transparenten Kostenvoranschlag und halten die Kommunikation während des gesamten Projekts aufrecht.",
+      "p5": "Das Schlüsselelement einer Premium-Renovierung sind perfekt nivellierte Oberflächen – Wände, Böden und Decken. ",
+      "p6": "Die Premium-Renovierung umfasst Demontage, Neuplanung, Oberflächennivellierung, Austausch von Sanitär- und Elektroanlagen, Einbau einer Fußbodenheizung, Verlegen von Parkett oder anderen Naturbelägen, Einbau von Türen und dekorativen Innenausbau.",
+      "listTitle": "Leistungsumfang bei der Premium-Renovierung:",
+      "list": [
+        "Entwicklung eines maßgeschneiderten Innenarchitekturprojekts",
+        "Raumneuplanung und Legalisierung bei Bedarf",
+        "Präzise Wand- und Deckennivellierung",
+        "Kompletter Austausch der elektrischen Leitungen",
+        "Installation neuer Sanitärsysteme",
+        "Fußbodenheizung und Schallschutzinstallation",
+        "Verlegen von natürlichen Bodenbelägen (Parkett, Marmor etc.)",
+        "Einbau von Innen- und Außentüren",
+        "Installation von mehrstufigen Deckensystemen",
+        "Aufbringen von dekorativen Wandbelägen und hochwertigen Beschichtungen"
+      ],
+      "free": "Besichtigung und Kostenvoranschlag vor Ort – kostenlos."
+    },
+    "vip": {
+      "title": "VIP-Renovierung",
+      "cta": "Lassen Sie sich beraten",
+      "free": "Fachbesuch und Kostenvoranschlag – kostenlos.",
+      "p1": "Bei der Renovierung der VIP-Klasse kommen die teuersten und modernsten Materialien und Technologien zum Einsatz. ",
+      "p2": "Für den Bodenbelag kommen ausschließlich hochwertige Lösungen zum Einsatz – etwa Palastparkett aus mehreren Holzarten oder kunstvolle Steinmosaiken, die die Schaffung eines einzigartigen und luxuriösen Musters ermöglichen.",
+      "p3": "Decken können aus hochwertigen Sandwichsystemen hergestellt werden, die eine hervorragende Schallabsorption und Wärmeschutz bieten. ",
+      "p4": "Die Wände sind mit natürlichen Materialien veredelt: echter Stein, Buntglas, Kunstschmiedearbeiten, Seide, Brokat und Samtvorhänge. ",
+      "p5": "Ein obligatorischer Schritt der VIP-Renovierung ist die Auswahl oder maßgeschneiderte Kreation exklusiver Kunstelemente: Skulpturen, Gemälde, Wandteppiche, antike Möbel – die dem Innenraum Individualität und anspruchsvollen Charakter verleihen.",
+      "listTitle": "Liste der in der VIP-Renovierung enthaltenen Arbeiten:",
+      "list": [
+        "Raumneuplanung",
+        "Wand- und Deckennivellierung",
+        "Kompletter elektrischer Austausch (Kupferverkabelung)",
+        "Sanitäraustausch (Kupfer- oder Mehrschichtsysteme)",
+        "Austausch von Türen und Fenstern",
+        "Isolierung und Verglasung von Balkonen und Loggien",
+        "Hochwertige Bodenverlegung (Palastparkett, Marmormosaik)",
+        "Installation von mehrstufigen abgehängten und Spanndecken",
+        "Wand- und Deckenveredelung mit Naturmaterialien",
+        "Dekorative Mal- und Gipstechniken",
+        "Verkleidung aus Naturstein und Mosaik",
+        "Installation von Säulen und Pilastern",
+        "Buntglaskreation",
+        "Kunstvolles Metallschmieden",
+        "Maßgeschneiderte exklusive Teppiche, Batik und Wandteppiche",
+        "Wand- und Deckenmalerei in jedem historischen oder modernen Stil"
+      ]
+    },
+    "apartments": {
+      "title": "Wohnungsrenovierung in Riga",
+      "cta": "Fordern Sie eine Beratung an",
+      "text": [
+        "Seit 2010 bieten wir Dienstleistungen im Bereich Innenarchitektur und komplette Wohnungsrenovierung an.",
+        "Unser Team besteht aus 8 erfahrenen Handwerkern, die je nach Kundenwunsch Renovierungsprojekte jeder Komplexität durchführen können.",
+        "Eine komplette Wohnungsrenovierung ist eine beliebte Wahl, da sie nicht nur das Interieur auffrischt, sondern auch den Komfort und die Funktionalität deutlich verbessert.",
+        "Eine komplexe Renovierung spart Ihnen Zeit – Profis kümmern sich um alles von der Planung bis zur endgültigen Lieferung.",
+        "Die Kosten für die Standard-Renovierung sind im Vergleich zu Premium und VIP niedriger, da kein vollständiges Designprojekt erforderlich ist."
+      ],
+      "advantages": {
+        "title": "Unsere Vorteile",
+        "list": [
+          "Beratungen zur Sanierung und Planung",
+          "Bezahlung erst nach Abschluss der Arbeiten",
+          "Bis zu 24 Monate Garantie auf alle Arbeiten",
+          "Lettische Spezialisten mit mehr als 5 Jahren Erfahrung",
+          "Vollständige Projekt- und Arbeitsüberwachung",
+          "Bis zu 30 % Rabatt auf Materialien und Möbel"
+        ]
+      },
+      "guarantees": {
+        "title": "Garantien",
+        "list": [
+          "Offizielles Garantiezertifikat (24 Monate)",
+          "Individuelle Herangehensweise an jeden Kunden",
+          "Die Preise ändern sich nach Vertragsabschluss nicht",
+          "Feste Fristen für die Projektabwicklung",
+          "Kostenlose Beratung während des gesamten Prozesses"
+        ]
+      },
+      "steps": {
+        "title": "Wie der Prozess funktioniert",
+        "list": [
+          "Sie nehmen Kontakt zu uns auf und senden uns optional Ihren Wohnungsplan oder Entwurf zu",
+          "Ein Spezialist kommt vorbei, um Messungen vorzunehmen und die Arbeit zu beurteilen",
+          "Wir erstellen einen detaillierten Kostenvoranschlag",
+          "Wir unterzeichnen den Vertrag",
+          "Sie leisten eine Anzahlung von 30 % für die erste Etappe und die Renovierung beginnt"
+        ]
+      }
+    },
+    "houses": {
+      "title": "Cottage-Renovierung",
+      "cta": "Fordern Sie eine Beratung an",
+      "free": "Kostenlose Beratung und Kostenvoranschlag",
+      "text": [
+        "EUROdizains führt die Renovierung und Fertigstellung von Ferienhäusern in drei Kategorien durch: STANDARD – kosmetische Renovierung, PREMIUM – Euro-Renovierung, VIP – Premium-Renovierung.",
+        "Wir bieten eine umfassende Palette an Dienstleistungen für Ihr Ferienhaus – von der Entwurfsprojektentwicklung über die Abfallentsorgung bis hin zur Reinigung nach dem Bau.",
+        "Die Endbearbeitung ist die letzte und ausdrucksstärkste Bauphase, die dem Innenraum Individualität verleiht und den Geschmack des Kunden unterstreicht.",
+        "Unsere Spezialisten beraten und helfen Ihnen bei der Auswahl der am besten geeigneten Bau- und Veredelungsmaterialien.",
+        "Für Fassaden verwenden wir Zierputz, Kunst- und Natursteine, Fassadenfliesen sowie Dekorplatten aus Kunststoff oder Holz.",
+        "Die Innenausstattung hängt von der Funktion jedes Raums ab – für Kinderzimmer verwenden wir natürliche Materialien, während wir für Küchen und Wohnzimmer praktische und langlebige Optionen empfehlen.",
+        "Unsere Designer helfen dabei, den verfügbaren Raum optimal zu nutzen und eine Harmonie zwischen Funktionalität und Ästhetik zu schaffen.",
+        "Wir arbeiten ausschließlich mit zertifizierten, umweltfreundlichen und hochwertigen Materialien führender Hersteller.",
+        "Moderne Technologien und qualifizierte Fachkräfte gewährleisten eine qualitativ hochwertige Arbeit und verkürzen die Projektzeit.",
+        "Wir verwirklichen jede Ihrer Ideen – bestellen Sie die Renovierung Ihres Ferienhauses bei EUROdizains und wohnen Sie komfortabel!"
+      ],
+      "listTitle": "Zu den Installations- und Abschlussarbeiten gehören:",
+      "list": [
+        "Installation von Rahmen- und Schiebetrennwänden",
+        "Einbaumöbelmontage",
+        "Wand- und Trennwandverkleidung mit großformatigen Paneelen und Platten",
+        "Lichtdurchlässige Glasblock- oder Profilglastrennwände",
+        "Verlegen von Parkett-, Holz- und Laminatböden",
+        "Installation von abgehängten Decken",
+        "Verglasung von Fenstern, Türen und dekorativen Öffnungen",
+        "Montage von Fassadenplatten mit kompletter Endbearbeitung",
+        "Montage von Balkon- und Loggiageländer aus verschiedenen Materialien"
+      ]
+    },
+    "offices": {
+      "title": "Bürorenovierung",
+      "cta": "Fordern Sie eine Beratung an",
+      "free": "Kostenlose Beratung und Kostenvoranschlag",
+      "text": [
+        "Wir verbringen die meiste Zeit am Arbeitsplatz, daher sollten Komfort und Funktionalität in Büroräumen auf dem gleichen Niveau sein wie zu Hause.",
+        "EUROdizains führt Renovierungen von Büro-, Einzelhandels- und anderen Gewerbeflächen in Riga und den umliegenden Regionen durch.",
+        "Allein der Blick auf sein Büro lässt viel über ein Unternehmen aussagen – ein gut gestalteter Raum spiegelt Professionalität und Corporate Identity wider.",
+        "Eine ordnungsgemäß durchgeführte Renovierung schafft ein komfortables und effizientes Arbeitsumfeld und verbessert die Produktivität und die allgemeine Stimmung der Mitarbeiter.",
+        "Zu den Schlüsselfaktoren, die sich auf die Arbeitseffizienz auswirken, gehören ergonomische Möbel, moderne Geräte, richtige Beleuchtung, gute Akustik, Belüftung und Temperaturkontrolle.",
+        "Renovierungs-, Ausbau- oder Bürorekonstruktionen jeglicher Komplexität erfordern einen professionellen und verantwortungsvollen Ansatz.",
+        "EUROdizains bietet: Bürorenovierung und -ausbau, Büroumbau, Installation von technischen Systemen, Elektroarbeiten und allgemeine Baudienstleistungen.",
+        "Wir verwenden sowohl klassische als auch moderne Materialien und Technologien und entsprechen dabei vollständig den Bauvorschriften und Herstellerstandards.",
+        "Alle Arbeiten werden im Rahmen eines Vertrags mit detailliertem Kostenvoranschlag, Zeitplan und Abnahmeprotokollen durchgeführt. ",
+        "EUROdizains erweckt Ihre Ideen zum Leben und führt Ihre Bürorenovierung schnell, professionell und mit garantierter Qualität durch!"
+      ],
+      "listTitle": "Wir bieten folgende Dienstleistungen an:",
+      "list": [
+        "Bürorenovierung und -ausbau",
+        "Büroumbau",
+        "Installation des Engineering-Systems",
+        "Elektroarbeiten",
+        "Allgemeine Bau- und Ausbauarbeiten"
+      ]
+    },
+    "ceilings": {
+      "title": "Deckenveredelung in Riga",
+      "cta": "Fordern Sie eine Beratung an",
+      "free": "Kostenlose Beratung und Kostenvoranschlag",
+      "text": [
+        "Nicht nur Möbel und frische Renovierung machen einen Raum gemütlich und komfortabel. ",
+        "Zunächst müssen Sie sich für das Designkonzept, die Farbpalette und den Gesamtstil des Raums entscheiden und dann vor Beginn der Arbeiten die geeignete Art der Deckenverkleidung auswählen.",
+        "Es gibt verschiedene Arten der Deckenveredelung: Streichen, Tapezieren, abgehängte Decken und Spanndecken. ",
+        "Bemalte Decken erfordern eine sorgfältige Oberflächenvorbereitung – Reinigen, Grundieren, Füllen und Auftragen mehrerer Farbschichten.",
+        "Tapezierte Decken bieten dank der Vielfalt an Farben und Texturen eine kreative Gestaltungslösung. ",
+        "Abgehängte Decken eignen sich ideal zum Verbergen von Kabeln und Unvollkommenheiten. ",
+        "Spanndecken sind eine moderne und beliebte Wahl. ",
+        "EUROdizains bietet in Riga professionelle Deckenveredelungsdienste an, hilft bei der Materialauswahl und garantiert eine hochwertige Verarbeitung.",
+        "Durch die Zusammenarbeit mit uns erhalten Sie garantierte Qualität, kompetente Beratung, Unterstützung bei der Materialauswahl und ein flexibles Rabattsystem.",
+        "Wenn Sie sich für die Deckenveredelung in Riga interessieren, rufen Sie uns unter +371 22469222 an. EUROdizains – schneller und professioneller Service!"
+      ],
+      "listTitle": "Arten der Deckenveredelung:",
+      "list": [
+        "Bemalte Decken",
+        "Tapezierte Decken",
+        "Abgehängte Decken (Trockenbau, Paneele, MDF usw.)",
+        "Spanndecken (Folie oder Stoff)"
+      ]
+    },
+    "floors": {
+      "title": "Bodenrenovierung in Riga",
+      "cta": "Fordern Sie eine Beratung an",
+      "free": "Kostenlose Beratung und Kostenvoranschlag",
+      "text": [
+        "Seit über 5 Jahren bietet EUROdizains professionelle Renovierungsdienstleistungen aller Komplexitätsstufen für Wohnungen, Häuser und Büros in Riga an.",
+        "Wir bieten hochwertige Bodenrenovierung mit 3 Jahren Garantie und individueller Betreuung für jeden Kunden.",
+        "Unsere Experten führen das gesamte Spektrum an Arbeiten aus – von der Nivellierung des Untergrunds bis zur Verlegung von Bodenbelägen aller Art.",
+        "Wir bieten die Verlegung von Zementsand- und selbstnivellierendem Estrich, die Abdichtung, die Verlegung von Holzböden, Parkett, Laminat, Fliesen und andere Endbearbeitungen an.",
+        "Wir bieten auch Bodenisolierung, Schalldämmung, Fußbodenheizung, Sperrholzverlegung und Parkettverlegung mit Unterlage an.",
+        "Auch Natursteinböden sind erhältlich, ideal für stark frequentierte Bereiche oder Treppenhäuser in Häusern und Büros.",
+        "Bei der Wahl des Bodenbelags ist es wichtig, Haltbarkeit, Preis und Design zu berücksichtigen. ",
+        "Wenn Sie sich für EUROdizains entscheiden, vermeiden Sie den ganzen Ärger – unser Team erledigt den gesamten Prozess schnell und effizient.",
+        "Wir bieten erschwingliche Preise, Ratenzahlungsoptionen und die strikte Einhaltung der Vertragsbedingungen.",
+        "EUROdizains – komplette Bodensanierung in Riga, schnell, zuverlässig und mit garantierter Qualität!"
+      ],
+      "listTitle": "Unsere Bodensanierungsleistungen:",
+      "list": [
+        "Zementsand- und Fließestriche",
+        "Abdichtung und Wärmedämmung",
+        "Verlegung von Holz- und Parkettböden",
+        "Laminat-, Teppich- und Linoleumverlegung",
+        "Fliesen- und Natursteinböden",
+        "Installation einer Fußbodenheizung",
+        "Sperrholzmontage und Fußleistenmontage",
+        "Grundierung und Vorbereitung des Bodens"
+      ]
+    },
+    "plumbing": {
+      "title": "Sanitärdienstleistungen in Riga",
+      "intro": "EUROdizains bietet professionelle Sanitärdienstleistungen in Riga und Umgebung mit garantierter Qualität und einem individuellen Ansatz.",
+      "text": [
+        "Badezimmer und Toiletten sind die am häufigsten genutzten Räume in jedem Zuhause und verdienen daher bei der Renovierung besondere Aufmerksamkeit.",
+        "Oftmals sind alte Sanitäranlagen veraltet oder passen nicht zum neuen Design des Hauses oder der Wohnung. ",
+        "Wir führen alle Arten von Klempnerarbeiten durch – von der Wandschlitzung über die Rohrinstallation bis hin zur Montage von Heizkörpern, Boilern und Fußbodenheizungen.",
+        "Die Installation von Sanitärarmaturen erfordert Präzision und Erfahrung – unsere Spezialisten sorgen für erstklassige Ergebnisse gemäß allen Sicherheits- und technischen Standards.",
+        "Heizungs-, Wasserversorgungs- und Abwassersysteme werden nach einem detaillierten Projektplan installiert, der auf die Besonderheiten Ihres Hauses zugeschnitten ist.",
+        "Wenn Sie sich für unser Unternehmen entscheiden, erhalten Sie einen zuverlässigen Partner, der ein umfassendes Leistungsspektrum und qualitativ hochwertige Ergebnisse garantiert."
+      ],
+      "advantagesTitle": "Unsere Vorteile",
+      "advantages": [
+        "Hochwertige Arbeit von erfahrenen Profis.",
+        "Garantie auf alle abgeschlossenen Arbeiten.",
+        "Pünktliche Fertigstellung von Projekten.",
+        "Bauschuttbeseitigung nach Fertigstellung.",
+        "Individuelle Herangehensweise an jeden Kunden.",
+        "Flexibles Rabattsystem."
+      ],
+      "servicesTitle": "Erbrachte Dienstleistungen",
+      "services": [
+        "Wandjagd und Installation von Sanitärkommunikation.",
+        "Rohrinstallation für Handtuchwärmer und Heizungsanlagen.",
+        "Austausch von Steigleitungen und Installation von Abwassersystemen.",
+        "Installation von Badewannen, Toiletten, Waschbecken und Duschkabinen.",
+        "Installation von Heizsystemen – Heizkörper, Kessel, Fußbodenheizung.",
+        "Wasserversorgungs- und Abwasserinstallation für Privathäuser und Wohnungen."
+      ],
+      "contactTitle": "Kontaktieren Sie uns",
+      "contactText": "Wenn Sie an den Preisen für Sanitärdienstleistungen oder weiteren Informationen interessiert sind, rufen Sie uns bitte an: +371 22469222",
+      "cta": "Rufen Sie jetzt an"
+    },
+    "walls": {
+      "intro": "Wandveredelung in Riga – Preis von EUROdizains",
+      "title": "Wandveredelung in Riga – EUROdizains",
+      "text": [
+        "Wir alle wissen, dass der Bau eines Wohnhauses kein „Präzisions“-Prozess ist und bei der Renovierung einer Wohnung oder eines Landhauses oft Probleme mit unebenen Wänden auftreten. ",
+        "Die beliebtesten Methoden zum Nivellieren von Wänden sind Gipskartonplatten oder Putz. ",
+        "Zunächst sollten Sie ermitteln, welche Methode für jeden Raum besser ist. ",
+        "Für andere Räume können Gipskarton- oder Gipsputze verwendet werden."
+      ],
+      "methodsTitle": "Arten der Wandveredelung",
+      "methods": [
+        "Putz – geeignet für Wände mit Unebenheiten bis 5 cm. ",
+        "Gipskartonplatten – eine schnellere, günstigere und einfachere Option, aber weniger haltbar.",
+        "Rahmenmontage – die Bleche werden an einem Metall- oder Holzrahmen befestigt, sodass Kabel und Kommunikation verborgen bleiben.",
+        "Rahmenlose Montage – Platten werden mit Spezialkleber und Dübeln direkt an die Wand geklebt."
+      ],
+      "advantagesTitle": "Warum uns wählen?",
+      "advantages": [
+        "Qualifizierte und erfahrene Handwerker",
+        "Beratung zu Materialien und Veredelung",
+        "Garantie der Arbeitsqualität",
+        "Hohe Qualität und angenehme Rabatte",
+        "Individuelle Herangehensweise an jeden Kunden"
+      ],
+      "contactText": "Wenn Sie sich für die Wandveredelung interessieren – Preise, Typen oder andere Details – rufen Sie uns an:",
+      "cta": "Kontaktieren Sie uns"
+    },
+    "electrics": {
+      "intro": "Elektroinstallationsarbeiten in Riga",
+      "title": "Elektroarbeiten – EUROdizains",
+      "text": [
+        "Elektroinstallationsarbeiten sind eine Reihe von Bautätigkeiten, die während des Baus oder der Renovierung durchgeführt werden – von der Elektrifizierungsprojektplanung bis zur Installation von Beleuchtung und Schaltern. ",
+        "Dank moderner Technologien und Innovationen können bei Elektro- und Ausbauarbeiten hervorragende Ergebnisse erzielt werden, indem Räume mit Beleuchtung zoniert werden und Ihrem Zuhause Individualität verliehen wird.",
+        "Der Hauptindikator für hochwertige Elektroarbeiten ist der reibungslose Betrieb aller Elemente und eine unterbrechungsfreie Stromversorgung. ",
+        "Führen Sie elektrische Arbeiten niemals selbst aus! "
+      ],
+      "listTitle": "Arten von Elektroarbeiten",
+      "list": [
+        "Kabel- und Leitungsinstallation",
+        "Anschluss von Geräten und Geräten",
+        "Installation von Steckdosen, Schaltern und Schutzschaltern",
+        "Verlagerung elektrischer Elemente",
+        "TV-, Telefon- und Internetverkabelung",
+        "Installation eines Smart-Home-Systems",
+        "Einrichtung von Haushaltsgeräten",
+        "Beleuchtungsinstallation"
+      ],
+      "rulesTitle": "Wichtige Sicherheitsregeln",
+      "rules": [
+        "Trennen Sie immer die Stromversorgung, bevor Sie mit der Arbeit beginnen",
+        "Erstellen Sie einen detaillierten Plan mit Steckdosen und Beleuchtungspunkten",
+        "Bestimmen Sie die Positionen von Schaltern und Anschlusskästen",
+        "Verlegen Sie die Kabel parallel zum Boden und nur mit 90°-Drehungen",
+        "Separate Leitungen für leistungsstarke Geräte (Herd, Waschmaschine)",
+        "Überprüfen und testen Sie alle Stromkreise nach der Installation"
+      ],
+      "advantagesTitle": "Warum uns wählen?",
+      "advantages": [
+        "Zertifizierte und erfahrene Elektriker",
+        "Einhaltung aller Sicherheitsstandards",
+        "Garantierte Arbeitsqualität",
+        "Individueller Ansatz für jeden Kunden",
+        "Schnelle und zuverlässige Ausführung"
+      ],
+      "contactText": "Interessiert an Elektroarbeiten? ",
+      "cta": "Kontaktieren Sie uns"
+    },
+    "openings": {
+      "intro": "Wandöffnungsinstallation in Riga",
+      "title": "Wandöffnungen – EUROdizains",
+      "text": [
+        "Bei der Sanierung einer Wohnung oder eines Hauses ist es oft notwendig, neue Öffnungen zu schaffen oder bestehende zu erweitern. ",
+        "Wandöffnungen werden mithilfe der Diamantschneidetechnologie hergestellt, was die Schaffung nicht standardmäßiger Formen wie Bögen, Nischen und Portale ermöglicht.",
+        "Eine wichtige Voraussetzung beim Ausschneiden von Öffnungen in tragenden Wänden ist die anschließende Verstärkung der Konstruktion, um die Tragfähigkeit des entfernten Wandabschnitts auszugleichen.",
+        "Wenn die Wand aus einem schwachen Material besteht, muss vor Beginn der Arbeiten eine Verstärkung vorgenommen werden. "
+      ],
+      "methodsTitle": "Verstärkungsmethoden",
+      "methods": [
+        "Verwendung von Metallecken",
+        "Verstärkung mit Stahlkanalträgern",
+        "Kombinierte Verstärkung mit Eck- und U-Träger"
+      ],
+      "warningsTitle": "Warnung und wichtige Informationen",
+      "warnings": [
+        "Öffnungen in tragenden Wänden erfordern eine bauaufsichtliche Genehmigung und ein Verstärkungsprojekt",
+        "Auftragnehmer müssen für diese Art von Bauarbeiten zertifiziert sein",
+        "Das Erstellen von Wandöffnungen oder der Rückbau von Wänden sollte niemals in Eigenregie erfolgen",
+        "Unsere Spezialisten führen den gesamten Prozess professionell durch, unterstützen bei der Dokumentation und kümmern sich um die Bauschuttbeseitigung"
+      ],
+      "contactText": "Für eine Beratung rufen Sie bitte an:",
+      "cta": "Kontaktieren Sie uns"
+    },
+    "demolition": {
+      "intro": "Abbrucharbeiten in Riga",
+      "title": "Abbruchdienstleistungen – EUROdizains",
+      "text": [
+        "Jede Renovierung beginnt mit Abrissarbeiten – der Grundlage jedes erfolgreichen Projekts. ",
+        "Unser Unternehmen bietet ein umfassendes Spektrum an Abbruchdienstleistungen an: Entfernung von Bodenbelägen, Demontage von Fliesen, Abbruch von Ziegelwänden und Trennwänden, Entfernung von Fenster- und Türöffnungen sowie Entsorgung von Bauschutt."
+      ],
+      "typesTitle": "Hauptarten von Abbrucharbeiten",
+      "types": [
+        "Entfernung des Bodenbelags – wird durchgeführt, wenn die alte Oberfläche beschädigt ist oder der Zugang zu versteckten Versorgungsleitungen erforderlich ist",
+        "Die Demontage von Fliesen erfordert Präzision und Sicherheit, um Schäden an Wänden und Putz zu vermeiden",
+        "Der Abriss von Ziegelwänden und Trennwänden erfordert Präzision und professionelle Werkzeuge",
+        "Ausbau von Fensteröffnungen – das Entfernen von Rahmen und Schrägen vor dem Einbau neuer Fenster",
+        "Ausbau der Türöffnung – vorsichtig mit Spezialwerkzeug durchführen, um zusätzliche Wandschäden zu vermeiden"
+      ],
+      "rulesTitle": "Wichtige Dinge, die Sie vor dem Abriss wissen sollten",
+      "rules": [
+        "Abbrucharbeiten sind laut und staubig – stimmen Sie den Zeitplan mit den Nachbarn ab",
+        "Bereiten Sie robuste Säcke für Bauschutt vor",
+        "Es ist immer am besten, Fachleute zu beauftragen, um einen sauberen und effizienten Prozess zu gewährleisten"
+      ],
+      "advantagesTitle": "Warum sollten Sie sich für uns entscheiden?",
+      "advantages": [
+        "Erschwingliche Preise und Ratenzahlungsoptionen",
+        "Auf Ihre Bedürfnisse zugeschnittener Vertrag",
+        "Arbeitsgarantie",
+        "Strikte Termineinhaltung und Unterstützung bei weiteren Fragen",
+        "Reinigung und Müllentsorgung nach Fertigstellung"
+      ],
+      "contactText": "Um Preise zu erfahren oder Abbrucharbeiten zu bestellen, rufen Sie uns an:",
+      "cta": "Kontaktieren Sie uns"
+    },
+    "finishing": {
+      "intro": "Abschlussarbeiten in Riga",
+      "title": "Innenausbau – Preise in Riga",
+      "text": [
+        "Mit dem Wachstum der Bauindustrie hat sich auch der Ausbaumarkt rasant entwickelt, der sowohl den Wohnungs- als auch den Hausausbau umfasst. ",
+        "Der Ausbau spiegelt seit jeher den Wunsch der Menschheit wider, Wohnräume komfortabler und optisch ansprechender zu gestalten. ",
+        "Im Laufe der Jahrhunderte haben sich Veredelungsarbeiten weiterentwickelt und die Traditionen westlicher und östlicher Kulturen vereint. ",
+        "Heute ist der Innenausbau in mehrere Richtungen unterteilt: Minimalismus, natürlicher Stil, Hochtechnologie und Umweltbewusstsein. ",
+        "Modernes Design profitiert auch von umweltfreundlichen Materialien: Massivholz, Marmor, Kalkstein und Granit, die perfekt mit Plasma-Panels und Smart-Home-Systemen harmonieren.",
+        "Um qualitativ hochwertige Ergebnisse zu erzielen, müssen Zeit und Ressourcen investiert werden. ",
+        "Ein Fehler, den ein unerfahrener Designer zu Beginn macht, kann kostspielig sein. Daher ist es wichtig, mit vertrauenswürdigen Experten zusammenzuarbeiten, die über nachweisliche Erfahrung und erfolgreiche Projekte verfügen.",
+        "Dank moderner Werkzeuge und Materialien erreichen heutige Endbearbeitungsarbeiten ein neues Niveau – schneller, sauberer und präziser als je zuvor."
+      ],
+      "principlesTitle": "Grundprinzipien der modernen Veredelung",
+      "principles": [
+        "Minimalismus und Harmonie in der Innenarchitektur",
+        "Verwendung hochwertiger Naturmaterialien",
+        "Umweltfreundliche und sichere Umgebungen",
+        "Integration moderner Technologie",
+        "Balance zwischen Ästhetik und Funktionalität"
+      ],
+      "advantagesTitle": "Warum sollten Sie sich für uns entscheiden?",
+      "advantages": [
+        "Erfahrenes und professionelles Team",
+        "Personalisierter Ansatz für jeden Kunden",
+        "Garantierte Qualität und pünktliche Lieferung",
+        "Erschwingliche Preise und flexible Optionen",
+        "Wir helfen Ihnen, Ihre Designideen zum Leben zu erwecken"
+      ],
+      "contactText": "Um Endarbeiten zu bestellen oder mehr zu erfahren, rufen Sie uns an:",
+      "cta": "Kontaktieren Sie uns"
+    },
+    "design": {
+      "badge": "Qualität und vertrauenswürdige Arbeit",
+      "title": "Renovierung und Innenausbau",
+      "p1": "EUROdizains bietet eine breite Palette von Dienstleistungen in den Bereichen Innenarchitektur, Bau und Renovierung sowohl für Privatkunden als auch für Unternehmen.",
+      "p2": "Hohe Qualität und die Einhaltung von Projektterminen stehen bei uns an erster Stelle.",
+      "p3": "Unser Team besteht aus erfahrenen, zertifizierten Spezialisten, die sich dafür einsetzen, ein hohes Maß an Kundenvertrauen aufrechtzuerhalten.",
+      "p4": "Wir führen folgende Arbeiten aus:",
+      "p5": "",
+      "p6": "Unsere wichtigsten Vorteile:",
+      "p7": "",
+      "p8": "Für alle Leistungen gilt eine offizielle Garantie von 12 bis 60 Monaten.",
+      "p9": "Wir können Projekte jeder Komplexität realisieren – von der einfachen Renovierung bis hin zu exklusiven Designlösungen.",
+      "listTitle": "Wir bieten:",
+      "list": [
+        "Innenarchitektur und Architekturplanung",
+        "Komplette Renovierungsdienstleistungen jeglicher Komplexität",
+        "Montage und Demontage von Wänden und Trennwänden",
+        "Bauarbeiten: Fundament, Wandbau, Dacheindeckung",
+        "Bodeninstallation, Türen- und Fenstermontage",
+        "Innen- und Außenveredelung",
+        "Installation von Ingenieur- und Kommunikationssystemen (Elektrizität, Heizung, Wasser, Lüftung, Sicherheitssysteme)"
+      ],
+      "advTitle": "Vorteile:",
+      "advantages": [
+        "Qualifizierte und erfahrene Spezialisten",
+        "Transparente Preise und klare Kostenvoranschläge",
+        "Offizieller Vertrag und Dokumentation",
+        "Termingerechte Fertigstellung aller Arbeiten",
+        "Qualitätskontrolle in jeder Phase",
+        "Garantie bis zu 60 Monate"
+      ],
+      "cta": "Fordern Sie eine Beratung an"
+    },
+    "sidebar": {
+      "categories": "Kategorien der Renovierung",
+      "standard": "Standardrenovierung",
+      "premium": "Premium-Renovierung",
+      "vip": "VIP-Renovierung",
+      "clients": "Kunden und Dienstleistungen",
+      "apartments": "Wohnungsrenovierung",
+      "houses": "Hausrenovierung",
+      "offices": "Bürorenovierung",
+      "technology": "Renovierungstechnik",
+      "ceilings": "Deckenveredelung",
+      "floors": "Bodenrenovierung",
+      "plumbing": "Klempnerarbeiten",
+      "walls": "Wandveredelung",
+      "electrics": "Elektroarbeiten",
+      "openings": "Wandöffnungen",
+      "demolition": "Abbrucharbeiten",
+      "finishing": "Abschlussarbeiten",
+      "remonti": "Renovierung und Fertigstellung"
+    }
+  },
+  "design": {
+    "sidebar": {
+      "project": "Designprojekt",
+      "composition": "Projektzusammensetzung",
+      "standard": "Standardprojekt",
+      "premium": "Premium-Projekt",
+      "vip": "VIP-Projekt",
+      "visual": "3D-Visualisierung",
+      "supervision": "Autorenaufsicht",
+      "warranty": "Garantie",
+      "discounts": "Rabatte",
+      "clients": "Kunden & Projekte",
+      "apartments": "Wohnungsgestaltung",
+      "houses": "Hausdesign",
+      "decor": "Dekoration",
+      "interiors": "Innenarchitektur",
+      "offices": "Bürogestaltung",
+      "restaurants": "Restaurantdesign",
+      "nightclubs": "Nachtclub-Design",
+      "design": "Innenarchitektur"
+    },
+    "home": {
+      "title": "Innenarchitektur in Deutschland",
+      "intro": "Innenarchitektur",
+      "cta": "Kontaktieren Sie uns",
+      "paragraphs": [
+        "Innenarchitektur ist in Riga ein schnell wachsender und sehr gefragter Bereich. ",
+        "EUROdizains bietet Ihnen ein komplettes Leistungspaket:",
+        "Innenarchitektur in Riga ist eine hervorragende Gelegenheit, einen schönen und professionell gestalteten Raum zu erhalten. ",
+        "Innenarchitektur in Riga ist in zwei Hauptkategorien unterteilt. ",
+        "Innenarchitektur ist nicht nur eine Möglichkeit, hochwertige und einzigartige Innenräume zu schaffen, sondern auch eine Möglichkeit, Zeit zu sparen. "
+      ],
+      "listTitle": "Designdienstleistungen",
+      "list": [
+        "3D-Visualisierung",
+        "Vollständiger Satz technischer Zeichnungen",
+        "Auswahl an Möbeln, Materialien und Accessoires",
+        "Materialeinkauf mit 20–30 % Rabatt",
+        "Schnelle und hochwertige Renovierung",
+        "Designeraufsicht"
+      ]
+    },
+    "composition": {
+      "intro": "Design-Projektstruktur",
+      "title": "Design-Projektstruktur",
+      "text": [
+        "Ein Designprojekt ist ein vollständiger Satz von Zeichnungen und Visualisierungen, der die Idee eines Designers in die Realität umsetzt. ",
+        "Ohne ein strukturiertes Projekt wird das Ergebnis unvorhersehbar. ",
+        "Innenarchitekturprojekte für Wohnungen sind für die Erzielung von Komfort und einer gemütlichen Atmosphäre unerlässlich. ",
+        "Auf der EUROdizains-Website können Sie abgeschlossene Projekte einsehen und die Kreativität und Qualität unserer Arbeit bewerten.",
+        "Wir helfen bei der Entwicklung eines Projekts, auch wenn Sie keine Erfahrung in der Innenarchitektur haben. ",
+        "Wir passen jedes Projekt individuell an die Bedürfnisse des Kunden an und arbeiten stets innerhalb der vereinbarten Fristen.",
+        "Unsere Designer sorgen stets für eine vollständige, hochwertige Designprojektstruktur."
+      ],
+      "typesTitle": "Arten von Designprojekten",
+      "types": [
+        "Standard – beinhaltet alle wesentlichen Zeichnungen und 3D-Visualisierungen.",
+        "Premium – vollständiger Satz an Zeichnungen, Visualisierungen und Spezifikationen für Materialien, Möbel und Beleuchtung.",
+        "VIP – Full-Service-Paket: Zeichnungen, Visualisierungen, Materialauswahl, Autorenbetreuung und Dekoration."
+      ],
+      "structureTitle": "Projektstruktur",
+      "structure": [
+        "Messplan",
+        "Layoutoptionen",
+        "Umplanungsplan",
+        "Abrissplan",
+        "Möbelanordnung",
+        "Grundriss mit Materialien",
+        "Deckenplan",
+        "Wandscans",
+        "Beleuchtungsplan",
+        "Schaltschema",
+        "Sockelplatzierung",
+        "Deckenprofile",
+        "Küchenlayout",
+        "Sanitärplan",
+        "Belüftung und AC-Layout",
+        "Beleuchtungsspezifikationen",
+        "Spezifikation des Endbearbeitungsmaterials",
+        "Möbelauswahl",
+        "Elektrische Tische",
+        "3D-Visualisierungen",
+        "Kameralayout (3D Max)",
+        "Videovisualisierung"
+      ],
+      "faqTitle": "FAQ",
+      "faq": [
+        "Kann ein Designprojekt unabhängig durchgeführt werden? ",
+        "Können Sie nur einen Teil eines Projekts bestellen? "
+      ],
+      "cta": "Kontaktieren Sie uns"
+    },
+    "standard": {
+      "intro": "Designprojekt „Standard“",
+      "title": "Designprojekt „Standard“",
+      "text": [
+        "Wenn Sie das Designbudget minimal halten möchten und bereits eigene Ideen haben, ist das Paket „Standard“ ideal. ",
+        "Die Materialauswahl liegt bei Ihnen, da dieses Paket keine Spezifikationen enthält.",
+        "Wir beziehen immer 3D-Visualisierungen mit ein – ohne diese bieten wir keine Projekte an. ",
+        "Wir empfehlen Ihnen passende Shops und Lösungen für Ihr Designkonzept.",
+        "Dieses Paket bietet eine umfassende Planungsvorbereitung für eine hochwertige Sanierung."
+      ],
+      "structureTitle": "Standardprojektstruktur",
+      "structure": [
+        "Messplan mit Engineering",
+        "Drei Layoutoptionen",
+        "Umplanungsplan",
+        "Abriss- und Installationsplan",
+        "Möbelaufteilung (1–3 Optionen)",
+        "Grundriss mit Materialien",
+        "Deckenplan",
+        "Wandscan mit Materialien",
+        "Beleuchtungsschema",
+        "Layout wechseln",
+        "Steckdosenplan",
+        "Deckenausschnittzeichnungen",
+        "Anordnung der Küchenausstattung",
+        "Sanitär-Layout",
+        "Innenraumvisualisierungen (bis zu 3 Varianten)",
+        "3D Max-Kamera-Layoutplan"
+      ],
+      "cta": "Kontaktieren Sie uns"
+    },
+    "premium": {
+      "intro": "Premium-Designprojekt",
+      "title": "Premium-Designprojekt",
+      "text": [
+        "Das Premium-Designprojekt ist bei den Kunden die beliebteste und ausgewogenste Option. ",
+        "Die meisten Kunden entscheiden sich für dieses Paket, weil es maximale Klarheit bietet und zu einem harmonischen und funktionalen Innenraum beiträgt. ",
+        "Das Premium-Projekt basiert auf einer vollständig entwickelten technischen und visuellen Dokumentation, die die Genauigkeit während des Bau- und Renovierungsprozesses gewährleistet."
+      ],
+      "listTitle": "Projektinhalte",
+      "list": [
+        "Maßzeichnungen mit technischem Systemlayout",
+        "Planungslösungsoptionen (3 Versionen)",
+        "Layout nach der Neuplanung",
+        "Abriss- und Bauplan",
+        "Möbelanordnungsplan (1–3 Optionen)",
+        "Grundriss mit Materialplatzierung",
+        "Deckenplan mit Materialplatzierung",
+        "Wandscans mit Materialzuordnung",
+        "Beleuchtungsschema",
+        "Platzierungsschema wechseln",
+        "Outlet-Platzierungsplan",
+        "Deckenabschnitte und Details",
+        "Anordnung der Küchenausstattung",
+        "Platzierung von Sanitärarmaturen",
+        "Schema der Klimaanlage",
+        "Beleuchtungskörper mit Modellen und Geschäften",
+        "Spezifikationen für Veredelungsmaterialien",
+        "Möbelspezifikationen mit Abmessungen und Lagermöglichkeiten",
+        "3D Max Innenvisualisierungen (bis zu 3 Varianten pro Raum)",
+        "Kameraplatzierungsplan in 3D Max"
+      ],
+      "contactText": "Wenn Sie ein Projekt in Auftrag geben oder eine Beratung wünschen, nehmen Sie gerne Kontakt zu uns auf.",
+      "cta": "Kontaktieren Sie uns"
+    },
+    "vip": {
+      "intro": "VIP-Designprojekt",
+      "title": "VIP-Designprojekt",
+      "text": [
+        "Das VIP-Designprojekt ist ein umfassendes Innenarchitektur-Dienstleistungspaket auf Premium-Niveau. ",
+        "Das Projekt umfasst auch die Betreuung und Dekoration des Autors. ",
+        "Das VIP-Projekt wird bis zum Abschluss aller Renovierungsarbeiten fortgesetzt, um sicherzustellen, dass das Endergebnis perfekt zum geplanten Konzept passt."
+      ],
+      "listTitle": "Projektinhalte",
+      "list": [
+        "Maßzeichnungen mit technischem Systemlayout",
+        "Planungslösungen (3 Versionen)",
+        "Layout nach der Neuplanung",
+        "Abriss- und Bauplan",
+        "Möbelplatzierung (1–3 Optionen)",
+        "Grundriss mit Materialien",
+        "Deckenplan",
+        "Wandscan mit Materialien",
+        "Beleuchtungsschema",
+        "Platzierungsschema wechseln",
+        "Outlet-Platzierungsplan",
+        "Deckenabschnitte",
+        "Anordnung der Küchenausstattung",
+        "Anordnung der Sanitärarmaturen",
+        "Klimaanlagen-Layout",
+        "Spezifikation der Beleuchtungskörper",
+        "Spezifikation des Endbearbeitungsmaterials",
+        "Möbelspezifikation",
+        "Spezifikation der elektrischen Ausrüstung",
+        "3D Max-Visualisierungen (bis zu 3 pro Raum)",
+        "Kameraplatzierungsplan in 3D Max",
+        "3D Max-Komplettlösungsvideo"
+      ],
+      "contactText": "Wenn Sie ein VIP-Projekt bestellen oder eine Beratung wünschen, kontaktieren Sie uns.",
+      "cta": "Kontaktieren Sie uns"
+    },
+    "visualization3d": {
+      "intro": "3D-Visualisierung",
+      "title": "Professionelle 3D-Innenvisualisierung",
+      "text": [
+        "Moderne 3D-Technologien ermöglichen den Blick auf einen Innenraum, den es noch nicht gibt. ",
+        "Die 3D-Visualisierung zeigt alle Details des zukünftigen Innenraums: Farben, Materialien, Möbel, Beleuchtung und Gestaltungsvarianten.",
+        "Überraschenderweise hilft Ihnen die 3D-Visualisierung tatsächlich dabei, Geld zu sparen. ",
+        "Das Rendern eines hochwertigen 3D-Bildes ist zeitaufwändig – die Erstellung eines Bildes kann bis zu 5 Stunden dauern.",
+        "Technologien aus der Filmindustrie ermöglichen die Visualisierung nahezu fotografischer Qualität. ",
+        "Unsere Designer verwenden die neuesten Versionen von KOMPASS-3D, 3D Studio MAX und Photoshop, um Texturen, Lichteffekte und Materialien präzise zu reproduzieren.",
+        "3D-Visualisierungen sind in den Designpaketen Standard, Premium und VIP enthalten. ",
+        "Die Visualisierung ist die letzte Phase vor der Projektabwicklung und der Unterzeichnung der Autorenaufsichtsvereinbarung."
+      ],
+      "images": [
+        "/design/visualization/1.jpg",
+        "/design/visualization/2.jpg",
+        "/design/visualization/3.jpg"
+      ],
+      "listTitle": "Was bietet die 3D-Visualisierung?",
+      "list": [
+        "Fotorealistische Ansicht des Raumes",
+        "Genaue Darstellung von Materialien und Farben",
+        "Beleuchtungssimulation",
+        "Möglichkeiten der Möbelanordnung",
+        "Möglichkeit, das Layout vor der Renovierung anzupassen",
+        "Mehrere Kamerawinkel für jeden Raum"
+      ],
+      "cta": "Lassen Sie sich beraten"
+    },
+    "supervision": {
+      "intro": "Autorenaufsicht",
+      "title": "Autorenaufsicht",
+      "text": [
+        "Um sicherzustellen, dass das Projekt genau nach der ursprünglichen Idee umgesetzt wird, muss die Bauausführung überwacht werden. ",
+        "Bei der Autorenaufsicht handelt es sich um eine Reihe von Dienstleistungen, bei denen der Designer die Bauherren überwacht, um sicherzustellen, dass das genehmigte Designprojekt vollständig eingehalten wird. ",
+        "Wenn der Kunde ein bestimmtes Material ablehnt, muss der Designer es ersetzen, ohne das gesamte Designkonzept zu beeinträchtigen.",
+        "Kunden fragen oft: Warum ist Supervision nötig? ",
+        "Der Designer hat das Recht, Korrekturen zu verlangen, wenn die Arbeit nicht konform ist. ",
+        "Die Autorenaufsicht erfolgt über alle Bauphasen hinweg und gewährleistet eine professionelle Qualitätskontrolle."
+      ],
+      "listTitle": "Phasen der Autorenaufsicht",
+      "list": [
+        "Regelmäßige Besuche vor Ort",
+        "Kontrolle der Einhaltung des Designprojekts",
+        "Anpassungen und Korrekturen in der Dokumentation",
+        "Beratungen für Bauherren",
+        "Führung des Aufsichtsprotokolls",
+        "Kontrolle der Aufgabenerledigung aus dem Protokoll",
+        "Operative Maßnahmen zur Korrektur von Abweichungen",
+        "Auswahl und Bestellung von Dekorations- und Veredelungsmaterialien",
+        "Genehmigung von Rechnungen, Materialien und Geräten mit dem Kunden"
+      ],
+      "contactText": "Wenn Sie eine Autorenaufsicht beantragen möchten, kontaktieren Sie uns.",
+      "cta": "Kontaktieren Sie uns"
+    },
+    "guarantees": {
+      "intro": "Garantien",
+      "title": "Design-Service-Garantien",
+      "text": [
+        "Wir verstehen Ihre Bedenken im Zusammenhang mit der Bestellung von Innenarchitekturleistungen und der bevorstehenden Renovierung voll und ganz. ",
+        "• Sie sind sich nicht sicher, ob der Designer genau das liefern wird, was Sie wollen;",
+        "• Renovierungen kommen nicht oft vor – vielleicht zum ersten Mal, vielleicht einmal im Leben.",
+        "Um Ihre Risiken zu reduzieren und unsere Dienstleistungen zuverlässiger zu machen, bieten wir folgende Garantien:",
+        "1. Wir erstellen so viele Visualisierungen wie nötig. ",
+        "2. Sollten Sie während der Bauausführung Schwierigkeiten bei der Umsetzung des Entwurfsvorhabens haben, stehen wir Ihnen weiterhin mit allen notwendigen Erläuterungen und Unterstützung zur Seite.",
+        "Kundenbewertungen sind die beste Empfehlung unserer Professionalität.",
+        "Unsere Galerie enthält mehr als 70 fertiggestellte Werke – das ist unsere Garantie.",
+        "Wir sind von unseren Fähigkeiten überzeugt!"
+      ],
+      "cta": "Kontaktieren Sie uns"
+    },
+    "discounts": {
+      "intro": "Rabatte für Innenarchitektur",
+      "title": "Rabatte für Innenarchitekturprojekte",
+      "text": [
+        "Für Kunden, die Innenarchitekturdienstleistungen bestellen, bieten wir mehrere attraktive Rabatte an, die dazu beitragen, die Gesamtkosten des Projekts zu senken.",
+        "Die Rabatte gelten für alle Arten von Designprojekten und sind sowohl für Wohnungen als auch für Privathäuser verfügbar."
+      ],
+      "groupsTitle": "Gruppenbewerbung",
+      "groups": [
+        "Bei Bestellung eines Entwurfs für zwei Wohnungen im selben Gebäude – 5 % Rabatt",
+        "Drei Wohnungen – 9 % Rabatt",
+        "Vier oder mehr – 15 % Rabatt",
+        "Der Rabatt gilt auch für zusammenstehende Häuser"
+      ],
+      "areaTitle": "Mehr als 200 Quadratmeter",
+      "area": [
+        "Wenn Ihr Haus oder Ihre Wohnung mehr als 200 m² groß ist, erhalten Sie 5 % Rabatt",
+        "Für Objekte über 400 m² werden Rabatte individuell besprochen"
+      ],
+      "repairTitle": "Bei der Beauftragung einer Renovierung",
+      "repair": [
+        "Wenn Sie bei uns eine Renovierung in Auftrag geben, erhalten Sie 10 % Rabatt auf das Designprojekt"
+      ],
+      "multipleTitle": "Mehrere Wohnungen mit dem gleichen Grundriss",
+      "multiple": [
+        "Bringen Sie einen Kunden mit – Sie erhalten einen persönlichen Rabatt von 40 %",
+        "Bringen Sie zwei oder mehr mit – Sie erhalten 70 % Rabatt",
+        "Wenn Sie das Design zusammen mit der Renovierung bestellen, erhalten Sie einen zusätzlichen Rabatt",
+        "Wenn Sie keine Zeit haben, interessierte Kunden zu finden, können wir das für Sie tun"
+      ],
+      "ctaText": "Fordern Sie diesen Rabatt über die Kontaktseite oder telefonisch an:",
+      "cta": "Kontaktieren Sie uns"
+    },
+    "apartments": {
+      "intro": "Wohnungsplanung und Renovierung",
+      "title": "Wohnungsplanung und Renovierung",
+      "subtitle": "Hauptabschnitte",
+      "overview": [
+        "Merkmale der Wohnungsgestaltung",
+        "Was wir Ihnen bieten können",
+        "Wohnungsdesign in Riga und der Region",
+        "Kosten für die Wohnungsgestaltung",
+        "Wohnungsrenovierung"
+      ],
+      "designText": [
+        "Wohnungsdesign ist ein spezifischer Designbereich, der seine eigenen Merkmale hat und sich von anderen Innenräumen unterscheidet.",
+        "Die meisten der in unserer Ateliergalerie ausgestellten Arbeiten sind der Wohnungsgestaltung gewidmet, da es sich dabei um eine der gefragtesten Dienstleistungen handelt.",
+        "Bei der Gestaltung einer Wohnung – und die Preise unseres Studios werden Sie angenehm überraschen – ist es wichtig, einige wichtige Nuancen zu berücksichtigen."
+      ],
+      "rulesTitle": "Unsere Grundprinzipien",
+      "rules": [
+        "Kleine Raumfläche und komplexe Aufteilung.",
+        "Viele Funktionszonen.",
+        "Schlechte natürliche Beleuchtung.",
+        "Verwenden Sie helle und reflektierende Materialien.",
+        "Nutzen Sie den Raum möglichst effizient: Nischen sollten geschlossen, Stauraum integriert sein.",
+        "Geben Sie bei der Beleuchtungsplanung verstellbaren Systemen den Vorzug."
+      ],
+      "packagesTitle": "Entwerfen Sie Projektpakete",
+      "packagesSubtitle": "Wählen Sie die am besten geeignete Zusammensetzung für Ihr Designprojekt",
+      "packages": {
+        "standard": {
+          "name": "Standardprojekt",
+          "projectType": "Projekt „Standard“",
+          "composition": "14 Zeichnungen + 3D-Visualisierungen"
+        },
+        "premium": {
+          "name": "Premium-Projekt",
+          "projectType": "Projekt „Premium“",
+          "composition": "14 Zeichnungen + 3D-Visualisierungen + Spezifikationen"
+        },
+        "vip": {
+          "name": "VIP-Projekt",
+          "projectType": "Projekt „VIP“",
+          "composition": "14 Zeichnungen + 3D-Visualisierungen + Spezifikationen + Autorenbetreuung + Dekoration"
+        }
+      },
+      "recommended": "Empfohlen",
+      "packagesCta": "Lassen Sie sich beraten",
+      "servicesTitle": "Was wir bieten",
+      "services": [
+        "Erstellung einer 3D-Visualisierung der Wohnung",
+        "Erstellung von 14 verschiedenen technischen Zeichnungen",
+        "Auswahl an Möbeln, Beleuchtung und Materialien",
+        "Materialbeschaffung zu Händlerpreisen oder aus dem Ausland",
+        "Maßgeschneiderte Möbelherstellung",
+        "Autorenaufsicht des Designers",
+        "Wohnungsrenovierung und Designumsetzung"
+      ],
+      "geoText": [
+        "Wir bieten Wohnungsplanungsdienstleistungen in Riga und allen Städten Lettlands an.",
+        "Der Besuch eines Designers in Riga ist kostenlos.",
+        "In anderen Regionen werden nur die Reisekosten übernommen.",
+        "EUROdizains bietet drei Projektpakete an: Standard, Premium und VIP."
+      ],
+      "repairTitle": "Wohnungsrenovierung",
+      "repairText": [
+        "Unser Hauptziel ist es, das entwickelte Designprojekt zum Leben zu erwecken.",
+        "Die Renovierung einer Wohnung ist ein arbeitsintensiver Prozess, der dem Designkonzept folgen muss.",
+        "Eine hochwertige Inneneinrichtung ist ohne eine Kombination aus professioneller Renovierung und Design nicht möglich.",
+        "Werden unbekannte Bauherren beauftragt, kann der Planer die Qualität nicht kontrollieren.",
+        "Sie können ein VIP-Paket oder eine Autorenaufsicht bestellen, um die volle Projektgenauigkeit sicherzustellen.",
+        "Zu unserem Portfolio zählen viele abgeschlossene Wohnungsprojekte, und die Kunden vertrauen uns."
+      ],
+      "cta": "Kontaktieren Sie uns"
+    },
+    "houses": {
+      "intro": "Hausdesign und Renovierung",
+      "title": "Hausinnenarchitektur",
+      "subtitle": "Hauptabschnitte",
+      "overview": [
+        "Merkmale der Innenarchitektur eines Hauses",
+        "Was wir bieten",
+        "Preis für Innenarchitektur",
+        "Unsere Vorteile",
+        "Renovierungsarbeiten"
+      ],
+      "designText": [
+        "Was macht ein Haus warm und gemütlich? ",
+        "Es ist nicht einfach, für jedes Familienmitglied einen komfortablen Raum zu schaffen, insbesondere ohne Erfahrung oder räumliches Denken.",
+        "Ein Haus umfasst Zonen für Ruhe, Arbeit, Unterhaltung und Familienzeit. ",
+        "Ein Privathaus unterscheidet sich von einer Wohnung – mehr Räume, einzigartige Raumaufteilung, hohe Decken, Durchgangsbereiche, funktionale Dachböden und Treppenhäuser.",
+        "Große, abgetrennte Räume ermöglichen die Verwendung mehrerer Stile, aber professionelle Anleitung sorgt für Harmonie.",
+        "Die Auswahl von Farben, Möbeln und Dekor ist nicht immer einfach. ",
+        "Der professionelle Hausentwurf umfasst Skizzen, 3D-Visualisierung, Anpassungen, technische Pläne und die vollständige Überwachung bis zur Fertigstellung."
+      ],
+      "rulesTitle": "Was wir bieten",
+      "rules": [
+        "3D-Visualisierung Ihres Hausinnenraums.",
+        "14 detaillierte Zeichnungen für Böden, Wände, Decken, Strom, Beleuchtung und Möbel.",
+        "Auswahl an Möbeln, Materialien und Beleuchtung.",
+        "Materialeinkauf zu Händlerpreisen oder Import aus dem Ausland.",
+        "Autorenaufsicht während der Renovierung.",
+        "Komplettsanierung Ihres Hauses."
+      ],
+      "packagesTitle": "Innenarchitekturpakete",
+      "packagesSubtitle": "Wählen Sie das Designpaket, das Ihren Anforderungen entspricht",
+      "packages": {
+        "standard": {
+          "name": "Standard",
+          "projectType": "„Standard“-Projekt",
+          "composition": "14 Zeichnungen + 3D-Visualisierung"
+        },
+        "premium": {
+          "name": "Prämie",
+          "projectType": "„Premium“-Projekt",
+          "composition": "14 Zeichnungen + 3D-Visualisierung + Spezifikationen"
+        },
+        "vip": {
+          "name": "VIP",
+          "projectType": "„VIP“-Projekt",
+          "composition": "14 Zeichnungen + 3D-Visualisierung + Spezifikationen + Autorenbetreuung + Dekoration"
+        }
+      },
+      "recommended": "Empfohlen",
+      "packagesCta": "Lassen Sie sich beraten",
+      "servicesTitle": "Unsere Vorteile",
+      "services": [
+        "Fristen respektieren",
+        "Feste Projektkosten",
+        "Weitere Zeichnungen kostenlos",
+        "Kostenlose Beratung zu Materialien, Möbeln, Heizung und Strom"
+      ],
+      "geoText": [
+        "Wir entwickeln Innenräume für Häuser in Riga und in ganz Lettland.",
+        "Seit 2010 haben wir zahlreiche komplexe Designprojekte abgeschlossen.",
+        "Für eine perfekte Umsetzung wählen Sie Autorenbetreuung oder VIP-Paket.",
+        "Wir passen das Design immer nach Ihren Wünschen an."
+      ],
+      "repairTitle": "Hausrenovierung",
+      "repairText": [
+        "Ein Designprojekt ist nur der erste Schritt. ",
+        "Unser eigenes Bauteam gewährleistet die Qualität und die vollständige Einhaltung des Projekts.",
+        "Seit 2010 renovieren wir Häuser.",
+        "Wenn Sie keine Zeit mit der Überwachung der Bauherren verschwenden möchten, wählen Sie die Autorenaufsicht oder das VIP-Paket.",
+        "Unsere Handwerker schaffen ein warmes und komfortables Interieur, das auf Ihre Bedürfnisse zugeschnitten ist.",
+        "Für weitere Informationen kontaktieren Sie uns – wir beantworten gerne Ihre Fragen."
+      ],
+      "cta": "Kontaktieren Sie uns"
+    },
+    "decoration": {
+      "intro": "Dekoration",
+      "title": "Dekoration",
+      "text": [
+        "Unter Dekoration versteht man den Prozess der Auswahl und Anordnung von Möbeln, Beleuchtung, Gemälden, Skulpturen, Accessoires und anderen Elementen, um dem Innenraum Eleganz und Gemütlichkeit zu verleihen.",
+        "Dekoration ist eine Kunstform und ihr Erfolg hängt von der Vision, dem Können und der Vorstellungskraft des Designers ab.",
+        "Eines der Hauptmerkmale der Dekoration besteht darin, durch die Arbeit mit vorhandenen Elementen mehr Harmonie und Einheit im Innenraum zu erreichen.",
+        "Sehr oft ist es die Dekoration, die einem Raum mehr Lebendigkeit und Komfort verleiht und das Gefühl der Leere beseitigt, das nach einer Renovierung häufig auftritt."
+      ],
+      "stepsTitle": "Dekorationsschritte",
+      "steps": [
+        "Präzise Messungen und Vorbereitung der Flächen für die Dekoration.",
+        "Wanddekoration, Malerei und Farbauswahl.",
+        "Auswahl und Platzierung der Möbel, Besuche in Geschäften und Ausstellungsräumen.",
+        "Textilmaße und Stoffauswahl.",
+        "Auswahl dekorativer Elemente und Accessoires (Gemälde, Skulpturen).",
+        "Phytodesign – Gestaltung von Pflanzenkompositionen.",
+        "Auswahl und Anordnung der Beleuchtungskörper.",
+        "Auswahl der Sanitärarmaturen je nach Stil.",
+        "Auswahl von Türen und Beschlägen.",
+        "Auswahl der Ausrüstung – Küchen- und Klimasysteme."
+      ]
+    },
+    "interior": {
+      "intro": "Innenarchitektur",
+      "title": "Innenarchitektur von öffentlichen Räumen und Wohnräumen",
+      "cta": "Kontaktieren Sie uns",
+      "text": [
+        "Fast alle Menschen, außer Einsiedlern, verbringen rund zwei Drittel ihres Lebens in Innenräumen. ",
+        "Öffentliche Räume – Lobbys, Hallen, Büros, Restaurants, Clubs und Geschäfte – empfangen täglich Hunderte von Besuchern. ",
+        "Viel hängt vom Innenraum ab. ",
+        "Jeder Raum hat seinen eigenen Zweck und der Innenraum muss diese Funktion unterstützen. ",
+        "Eine professionell entwickelte Innenarchitektur sorgt für ein exklusives, hochwertiges Ergebnis, das dem Eigentümer zugute kommt.",
+        "Die Arbeit gliedert sich typischerweise in zwei Phasen: Skizze und 3D-Visualisierung, gefolgt von der Umsetzung während des Baus unter Aufsicht des Designers."
+      ]
+    },
+    "office": {
+      "intro": "Bürodesign",
+      "title": "Büroinnenarchitektur",
+      "cta": "Kontaktieren Sie uns",
+      "text": [
+        "Das Erscheinungsbild eines Büros und die richtige räumliche Organisation sind der Schlüssel zu einem effizienten und produktiven Team. ",
+        "Die Aufgabe eines Designers besteht darin, das Büro multifunktional, komfortabel und organisiert zu gestalten, damit jeder Mitarbeiter genügend Platz hat und Gemeinschaftsbereiche effektiv funktionieren.",
+        "EUROdizains bietet umfassende Bürodesign-Dienstleistungen an – einschließlich Visualisierung, Renovierung, Fertigstellung und Projektüberwachung.",
+        "Der Designer muss Arbeitsplätze richtig gruppieren, für reibungslose Kommunikation, zugängliche Geräte und komfortable Arbeitsbereiche sorgen.",
+        "Wenn das Büro bereits funktioniert, analysiert der Designer seinen Arbeitsablauf. ",
+        "Das Gesicht des Unternehmens ist der Empfangsbereich. "
+      ]
+    },
+    "restaurant": {
+      "intro": "Restaurantdesign",
+      "title": "Innenarchitektur für Cafés und Restaurants",
+      "cta": "Kontaktieren Sie uns",
+      "text": [
+        "Der Besuch eines Cafés oder Restaurants soll Freude und positive Emotionen hervorrufen. ",
+        "Ein gut durchdachtes Layout, Möbel, Beleuchtung und Farbpalette bestimmen den Erfolg und die Atmosphäre des Restaurants.",
+        "EUROdizains bietet professionelle Designdienstleistungen für Restaurants und Cafés in Riga.",
+        "Wir helfen bei der Auswahl des richtigen Stils und der richtigen Materialien und entwickeln ein umsetzungsreifes Projekt.",
+        "Wir arbeiten in vielen Stilrichtungen – klassisch, modern, Provence, Art Deco und mehr.",
+        "Die Verwendung unterschiedlicher Stile für unterschiedliche Hallen zieht oft mehr Kunden an.",
+        "Unser Hauptziel ist es, eine gemütliche Atmosphäre zu schaffen und Ihrem Restaurant eine starke Individualität zu verleihen."
+      ],
+      "offersTitle": "Was wir bieten",
+      "offers": [
+        "Design von Restaurants, Cafés und Bars",
+        "Schaffung neuer Innenräume oder Renovierung bestehender Innenräume",
+        "Individueller Ansatz, keine Vorlagen",
+        "Vollständige Designprojektentwicklung und -realisierung"
+      ],
+      "includesTitle": "Was ist enthalten",
+      "includes": [
+        "Maßstabsgetreue Zeichnungen aller Räume",
+        "Umplanungsplan",
+        "Möbelplatzierungsplan",
+        "Grundriss",
+        "Decken- und Beleuchtungsplan",
+        "Wandscans mit Referenzen",
+        "3D-Visualisierungen",
+        "Materialkostenschätzung"
+      ]
+    },
+    "club": {
+      "intro": "Nachtclub-Design",
+      "title": "Nachtclub-Design in Riga",
+      "text": [
+        "Einer unserer Lieblingsarbeitsbereiche ist die Gestaltung von Nachtclubs. ",
+        "Wir haben Erfahrung in der Gestaltung von Nachtclubs und sind mit den besten Veranstaltungsorten in Zypern und der Türkei vertraut. ",
+        "Die wichtigsten Elemente eines Nachtclubs sind Beleuchtung und Belüftung. ",
+        "Wir kreieren Lichtszenen, die den Innenraum je nach Atmosphäre ganz anders wirken lassen.",
+        "Das Ziel eines Nachtclubprojekts besteht darin, einen einzigartigen, beeindruckenden und funktionalen Unterhaltungsbereich zu schaffen."
+      ],
+      "listTitle": "Projekt beinhaltet",
+      "list": [
+        "Erstellung von Layoutlösungen",
+        "Lüftungs- und Klimaplanung",
+        "Vollständige Innenvisualisierungen",
+        "Beleuchtungs- und Elektropläne",
+        "Wandzeichnungen mit Materialangabe",
+        "Grundrisse und Decken",
+        "Material- und Beleuchtungsspezifikationen",
+        "Entwicklung von Dekorelementen"
+      ],
+      "contactText": "Kontaktieren Sie uns, um mit Ihrem Nachtclub-Designprojekt zu beginnen.",
+      "cta": "Rufen Sie jetzt an"
+    }
+  },
+  "contactPopup": {
+    "title": "Kontaktieren Sie uns",
+    "phoneLabel": "Telefonnummer",
+    "emailLabel": "E-Mail",
+    "close": "Schließen",
+    "phone": "+371 22469222",
+    "email": "eurodizains@inbox.lv"
+  }
+}

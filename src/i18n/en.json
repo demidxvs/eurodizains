@@ -10,11 +10,10 @@
   "buttons": {
     "call": "Call us"
   },
-
   "hero": {
     "badge": "Professional renovation",
     "title": "Stretch ceilings",
-    "city": "in Riga",
+    "city": "In European Union countries",
     "subtitle": "Free technician visit and measurements, up to 20-year warranty",
     "btnConsult": "Get a consultation",
     "btnServices": "Our services",
@@ -54,13 +53,11 @@
     "warranty": "Quality guarantee",
     "warrantyDesc": "Up to 20 years on work and materials"
   },
-
   "services": {
     "title": "Renovation Packages",
     "subtitle": "Choose the level of finish that best matches your space and lifestyle.",
     "recommended": "Recommended",
     "button": "Get a consultation",
-
     "standard": {
       "name": "Standard",
       "price": "from 80 €/m²",
@@ -76,7 +73,6 @@
       ],
       "note": "The apartment is fully ready for living."
     },
-
     "premium": {
       "name": "Premium",
       "price": "from 120 €/m²",
@@ -92,7 +88,6 @@
       ],
       "note": "Maximum comfort and durability."
     },
-
     "vip": {
       "name": "VIP",
       "price": "from 180 €/m²",
@@ -138,14 +133,11 @@
         "We handle projects of any complexity — from simple cosmetic updates to full-scale luxury renovations."
       ]
     },
-
     "standard": {
       "title": "Standard Renovation (Cosmetic Repair)",
       "cta": "Get a quote",
-
       "p1": "Standard renovation is a simple and practical type of repair that refreshes the appearance of the interior. In most cases, all load-bearing structures of the apartment remain unchanged, and modifications are minimal.",
       "p2": "The scope and cost of cosmetic renovation depend on the condition of the building, the original quality of finishing, as well as the building's age and maintenance conditions. Before starting renovation, dismantling work is performed.",
-
       "listTitle": "Work included in standard (cosmetic) renovation:",
       "list": [
         "Partial wall and ceiling leveling",
@@ -160,26 +152,22 @@
         "Removal and installation of plumbing equipment",
         "Painting of radiators, window frames and doors"
       ],
-
       "p3": "Floor: The existing floor surface is usually not removed, which helps save on dismantling and materials. New floor coverings are installed on top of the old surface.",
       "p4": "Walls: Walls are leveled partially (about 40%) to visually even out surfaces and simplify molding and trim work. Final finishing is wallpaper or paint.",
       "p5": "Ceiling: The same leveling and finishing approach applies — plastering and painting in 2-3 layers, or installation of stretch ceilings.",
       "p6": "Electrical: Full electrical rewiring is usually not required — partial cable replacement and installation of new outlets is allowed.",
       "p7": "The main advantages of standard renovation are cost-efficiency and short completion time. This type of renovation is suitable for those who want to refresh their home without large expenses.",
-
       "free": "Specialist visit and estimate preparation — Free!"
     },
     "premium": {
       "title": "Premium Renovation",
       "cta": "Get a Consultation",
-
       "p1": "Premium renovation is a comprehensive construction and finishing service using modern technologies and high-quality materials.",
       "p2": "This level of renovation includes the development of an individual interior design project, possible replanning, replacement of utilities, windows and doors, and the use of premium finishing materials.",
       "p3": "All work is carried out by skilled professionals with extensive experience, ensuring accuracy, quality, and a result that matches your expectations.",
       "p4": "We assist in planning the budget efficiently, provide a transparent cost estimate, and maintain communication throughout the entire project.",
       "p5": "The key element of a premium renovation is perfectly leveled surfaces — walls, floors, and ceilings. Proper geometry is essential to achieving a luxurious and harmonious interior.",
       "p6": "Premium renovation includes dismantling, replanning, surface leveling, replacement of plumbing and electrical systems, installation of underfloor heating, laying parquet or other natural coverings, installation of doors, and decorative interior finishing.",
-
       "listTitle": "Scope of Work in Premium Renovation:",
       "list": [
         "Development of a custom interior design project",
@@ -193,20 +181,17 @@
         "Installation of multi-level ceiling systems",
         "Application of decorative wall finishes and premium coatings"
       ],
-
       "free": "On-site inspection and cost estimate — free of charge."
     },
     "vip": {
       "title": "VIP Renovation",
       "cta": "Get a consultation",
       "free": "Specialist visit and cost estimate — free of charge.",
-
       "p1": "VIP class renovation uses the most expensive and modern materials and technologies. Work is carried out exclusively according to a custom interior design project.",
       "p2": "For flooring, only high-end solutions are used — such as palace parquet made from multiple wood species or artistic stone mosaics, allowing creation of a unique and luxurious pattern.",
       "p3": "Ceilings may be made of premium sandwich systems that provide excellent sound absorption and thermal protection. Stretch French ceilings with integrated lighting and hand-painted artwork are used where suitable.",
       "p4": "Walls are finished with natural materials: real stone, stained glass, artistic forging, silk, brocade and velvet drapery. Columns are typically made from gypsum or marble for durability and elegance.",
       "p5": "A mandatory stage of VIP renovation is the selection or custom creation of exclusive art elements: sculptures, paintings, tapestries, antique furniture — giving the interior individuality and sophisticated character.",
-
       "listTitle": "List of works included in VIP renovation:",
       "list": [
         "Space re-planning",
@@ -227,11 +212,9 @@
         "Mural and ceiling painting in any historical or modern style"
       ]
     },
-
     "apartments": {
       "title": "Apartment Renovation in Riga",
       "cta": "Request a consultation",
-
       "text": [
         "We have been providing interior design and full apartment renovation services since 2010.",
         "Our team includes 8 skilled craftsmen who can perform renovation projects of any complexity according to the client's requirements.",
@@ -239,7 +222,6 @@
         "A complex renovation saves your time — professionals handle everything from planning to final delivery.",
         "The cost of Standard renovation is lower compared to Premium and VIP, as a full design project is not required."
       ],
-
       "advantages": {
         "title": "Our Advantages",
         "list": [
@@ -251,7 +233,6 @@
           "Up to 30% discount on materials and furniture"
         ]
       },
-
       "guarantees": {
         "title": "Guarantees",
         "list": [
@@ -262,7 +243,6 @@
           "Free consultations throughout the process"
         ]
       },
-
       "steps": {
         "title": "How the Process Works",
         "list": [
@@ -274,12 +254,10 @@
         ]
       }
     },
-
     "houses": {
       "title": "Cottage Renovation",
       "cta": "Request a consultation",
       "free": "Free consultation and cost estimate",
-
       "text": [
         "EUROdizains performs cottage renovation and finishing in three categories: STANDARD – cosmetic renovation, PREMIUM – Euro renovation, VIP – premium renovation.",
         "We provide a full range of services for your cottage — from design project development to waste removal and post-construction cleaning.",
@@ -292,7 +270,6 @@
         "Modern technologies and skilled professionals ensure high-quality work and reduce project time.",
         "We bring any of your ideas to life — order your cottage renovation from EUROdizains and live in comfort!"
       ],
-
       "listTitle": "Installation and finishing works include:",
       "list": [
         "Installation of framed and sliding partitions",
@@ -306,12 +283,10 @@
         "Balcony and loggia railing installation from various materials"
       ]
     },
-
     "offices": {
       "title": "Office Renovation",
       "cta": "Request a consultation",
       "free": "Free consultation and cost estimate",
-
       "text": [
         "We spend most of our time at work, so comfort and functionality in office spaces should be at the same level as at home.",
         "EUROdizains performs renovation of office, retail, and other commercial spaces in Riga and the surrounding regions.",
@@ -324,7 +299,6 @@
         "All work is performed under contract with a detailed cost estimate, schedule, and acceptance reports. We hold a state license for all types of construction work.",
         "EUROdizains will bring your ideas to life and complete your office renovation quickly, professionally, and with guaranteed quality!"
       ],
-
       "listTitle": "We provide the following services:",
       "list": [
         "Office renovation and finishing",
@@ -334,12 +308,10 @@
         "General construction and finishing works"
       ]
     },
-
     "ceilings": {
       "title": "Ceiling Finishing in Riga",
       "cta": "Request a consultation",
       "free": "Free consultation and cost estimate",
-
       "text": [
         "Not only furniture and fresh renovation make a room cozy and comfortable. Ceilings play one of the most important roles in interior design. The right ceiling can make a bedroom calm and relaxing, a living room spacious and warm, and a kitchen bright and inviting.",
         "First, it is necessary to decide on the design concept, color palette, and overall style of the room, and then choose the appropriate type of ceiling finish before starting the work.",
@@ -352,7 +324,6 @@
         "By working with us, you receive guaranteed quality, expert consultations, assistance with material selection, and a flexible discount system.",
         "If you are interested in ceiling finishing in Riga, call us at +371 22469222. EUROdizains — fast and professional service!"
       ],
-
       "listTitle": "Types of ceiling finishing:",
       "list": [
         "Painted ceilings",
@@ -361,12 +332,10 @@
         "Stretch ceilings (film or fabric)"
       ]
     },
-
     "floors": {
       "title": "Floor Renovation in Riga",
       "cta": "Request a consultation",
       "free": "Free consultation and cost estimate",
-
       "text": [
         "For over 5 years, EUROdizains has been providing professional renovation services of all complexity levels for apartments, houses, and offices in Riga.",
         "We offer high-quality floor renovation with a 3-year warranty and an individual approach for every client.",
@@ -379,7 +348,6 @@
         "We provide affordable prices, installment payment options, and strict adherence to contractual terms.",
         "EUROdizains — complete floor renovation in Riga, fast, reliable, and with guaranteed quality!"
       ],
-
       "listTitle": "Our floor renovation services:",
       "list": [
         "Cement-sand and self-leveling screeds",
@@ -392,7 +360,6 @@
         "Floor priming and preparation"
       ]
     },
-
     "plumbing": {
       "title": "Plumbing Services in Riga",
       "intro": "EUROdizains provides professional plumbing services in Riga and the surrounding areas with guaranteed quality and a personalized approach.",
@@ -426,7 +393,6 @@
       "contactText": "If you are interested in plumbing service prices or more information, please call us: +371 22469222",
       "cta": "Call Now"
     },
-
     "walls": {
       "intro": "Wall finishing in Riga – price from EUROdizains",
       "title": "Wall finishing in Riga – EUROdizains",
@@ -454,7 +420,6 @@
       "contactText": "If you are interested in wall finishing – prices, types, or other details, call us:",
       "cta": "Contact us"
     },
-
     "electrics": {
       "intro": "Electrical installation works in Riga",
       "title": "Electrical works – EUROdizains",
@@ -495,7 +460,6 @@
       "contactText": "Interested in electrical works? Get more information by calling:",
       "cta": "Contact us"
     },
-
     "openings": {
       "intro": "Wall opening installation in Riga",
       "title": "Wall openings – EUROdizains",
@@ -521,7 +485,6 @@
       "contactText": "For consultation, please call:",
       "cta": "Contact us"
     },
-
     "demolition": {
       "intro": "Demolition works in Riga",
       "title": "Demolition services – EUROdizains",
@@ -589,7 +552,6 @@
     "design": {
       "badge": "Quality & Trusted Work",
       "title": "Renovation and Interior Finishing",
-
       "p1": "EUROdizains provides a wide range of services in interior design, construction, and renovation for both private clients and companies.",
       "p2": "High quality and compliance with project deadlines are our top priorities.",
       "p3": "Our team consists of experienced certified specialists dedicated to maintaining a high level of client trust.",
@@ -599,7 +561,6 @@
       "p7": "",
       "p8": "All services come with an official warranty from 12 to 60 months.",
       "p9": "We can realize projects of any complexity — from simple renovation to exclusive design solutions.",
-
       "listTitle": "We provide:",
       "list": [
         "Interior design and architectural planning",
@@ -610,7 +571,6 @@
         "Interior and exterior finishing",
         "Engineering and communication systems installation (electricity, heating, water, ventilation, security systems)"
       ],
-
       "advTitle": "Advantages:",
       "advantages": [
         "Qualified and experienced specialists",
@@ -620,21 +580,17 @@
         "Quality control at every stage",
         "Warranty up to 60 months"
       ],
-
       "cta": "Request a consultation"
     },
-
     "sidebar": {
       "categories": "Categories of Renovation",
       "standard": "Standard Renovation",
       "premium": "Premium Renovation",
       "vip": "VIP Renovation",
-
       "clients": "Clients and Services",
       "apartments": "Apartment Renovation",
       "houses": "House Renovation",
       "offices": "Office Renovation",
-
       "technology": "Renovation Technology",
       "ceilings": "Ceiling Finishing",
       "floors": "Floor Renovation",
@@ -658,7 +614,6 @@
       "supervision": "Author supervision",
       "warranty": "Warranty",
       "discounts": "Discounts",
-
       "clients": "Clients & projects",
       "apartments": "Apartment design",
       "houses": "House design",
@@ -669,12 +624,10 @@
       "nightclubs": "Nightclub design",
       "design": "Interior design"
     },
-
     "home": {
-      "title": "Interior Design in Riga",
+      "title": "Interior Design in European Union countries",
       "intro": "Interior Design",
       "cta": "Contact Us",
-
       "paragraphs": [
         "Interior design in Riga is a rapidly growing and highly demanded field. Many companies offer professional design services. Recently, the industry has expanded significantly, because a properly organized space is half the success of any business, and a well-planned apartment is a place you always want to return to. Our company provides only a high professional level of interior design.",
         "EUROdizains offers you a complete set of services:",
@@ -682,7 +635,6 @@
         "Interior design in Riga is divided into two main categories. The first includes the design of non-residential premises: shopping centers, offices, and commercial spaces. The second includes the design of residential properties: houses, apartments, and cottages.",
         "Interior design is not only a way to achieve high-quality and unique interiors but also an opportunity to save your time. A well-designed space is 50% of success. With us, you can order both the project and the renovation — and we will take all your wishes into account."
       ],
-
       "listTitle": "Design Services",
       "list": [
         "3D visualization",
@@ -693,11 +645,9 @@
         "Designer supervision"
       ]
     },
-
     "composition": {
       "intro": "Design Project Structure",
       "title": "Design Project Structure",
-
       "text": [
         "A design project is a full set of drawings and visualizations that brings a designer’s idea into reality. Without a project, creating a well-planned, harmonious interior is nearly impossible, as the key goal is precise planning.",
         "Without a structured project, the result becomes unpredictable. A design project is a collaboration between designer and client. We listen to your ideas and propose professional solutions. Although based in Riga, we work with clients from other cities as well.",
@@ -707,14 +657,12 @@
         "We tailor each project to individual client needs and always work within agreed deadlines.",
         "Our designers consistently provide a complete, high-quality design project structure."
       ],
-
       "typesTitle": "Types of Design Projects",
       "types": [
         "Standard — includes all essential drawings and 3D visualizations.",
         "Premium — full set of drawings, visualizations, and specifications for materials, furniture, and lighting.",
         "VIP — full service package: drawings, visualizations, material selection, author supervision, and decoration."
       ],
-
       "structureTitle": "Project Structure",
       "structure": [
         "Measurement plan",
@@ -740,20 +688,16 @@
         "Camera layout (3D Max)",
         "Video visualization"
       ],
-
       "faqTitle": "FAQ",
       "faq": [
         "Can a design project be done independently? — Not really.",
         "Can you order only part of a project? — Not recommended, as a project is a single unified concept."
       ],
-
       "cta": "Contact us"
     },
-
     "standard": {
       "intro": "Design Project “Standard”",
       "title": "Design Project “Standard”",
-
       "text": [
         "If you want to keep the design budget minimal and already have your own ideas, the “Standard” package is ideal. It includes only essential drawings and visualizations.",
         "Material selection is up to you, as this package does not include specifications.",
@@ -761,7 +705,6 @@
         "We can recommend suitable shops and solutions for your design concept.",
         "This package provides full planning preparation for a high-quality renovation."
       ],
-
       "structureTitle": "Standard Project Structure",
       "structure": [
         "Measurement plan with engineering",
@@ -781,19 +724,16 @@
         "Interior visualizations (up to 3 variants)",
         "3D Max camera layout plan"
       ],
-
       "cta": "Contact us"
     },
     "premium": {
       "intro": "Premium Design Project",
       "title": "Premium Design Project",
-
       "text": [
         "The Premium design project is the most popular and balanced option among clients. It includes a complete set of drawings, visualizations, and detailed specifications for lighting, furniture, and finishing materials.",
         "Most clients choose this package because it provides maximum clarity and helps create a harmonious and functional interior. The designer includes alternative material options, allowing clients to choose the best combinations of price and quality.",
         "The Premium project is based on a fully developed set of technical and visual documentation, ensuring accuracy during the construction and renovation process."
       ],
-
       "listTitle": "Project contents",
       "list": [
         "Measurement drawings with engineering system layout",
@@ -817,21 +757,17 @@
         "3D Max interior visualizations (up to 3 variants per room)",
         "Camera placement plan in 3D Max"
       ],
-
       "contactText": "If you want to order a project or get a consultation, feel free to contact us.",
       "cta": "Contact us"
     },
-
     "vip": {
       "intro": "VIP Design Project",
       "title": "VIP Design Project",
-
       "text": [
         "The VIP design project is a full premium-level interior design service package. It includes the complete set of drawings, plans, and visualizations required to achieve the highest-quality result.",
         "The project also includes author supervision and decoration. The designer is fully responsible for material selection, quality control, and the overall execution of the project.",
         "The VIP project continues until all renovation work is completed, ensuring the final result matches the intended concept perfectly."
       ],
-
       "listTitle": "Project contents",
       "list": [
         "Measurement drawings with engineering system layout",
@@ -857,15 +793,12 @@
         "Camera placement plan in 3D Max",
         "3D Max walkthrough video"
       ],
-
       "contactText": "If you would like to order a VIP project or get a consultation — contact us.",
       "cta": "Contact us"
     },
-
     "visualization3d": {
       "intro": "3D Visualization",
       "title": "Professional 3D Interior Visualization",
-
       "text": [
         "Modern 3D technologies allow you to see an interior that does not yet exist. Sketches and drawings are helpful, but they cannot show the level of realism achieved with 3D visualization.",
         "3D visualization shows all the details of the future interior: colors, materials, furniture, lighting, and layout variations.",
@@ -876,13 +809,11 @@
         "3D visualizations are included in the Standard, Premium, and VIP design packages. Clients receive 3–4 high-resolution images of each room from different angles.",
         "Visualization is the final stage before project delivery and signing the author supervision agreement."
       ],
-
       "images": [
         "/design/visualization/1.jpg",
         "/design/visualization/2.jpg",
         "/design/visualization/3.jpg"
       ],
-
       "listTitle": "What does 3D visualization provide?",
       "list": [
         "Photorealistic view of the space",
@@ -892,14 +823,11 @@
         "Ability to adjust the layout before renovation",
         "Multiple camera angles for every room"
       ],
-
       "cta": "Get a consultation"
     },
-
     "supervision": {
       "intro": "Author Supervision",
       "title": "Author Supervision",
-
       "text": [
         "To ensure the project is implemented exactly according to the original concept, construction must be supervised. This is the purpose of author supervision.",
         "Author supervision is a set of services where the designer oversees the builders to ensure full compliance with the approved design project. All furniture, materials, colours and textiles must follow the agreed specification.",
@@ -908,7 +836,6 @@
         "The designer has the right to request corrections if the work is not compliant. Clients also frequently want to make changes during construction — such decisions require the author’s approval.",
         "Author supervision is performed throughout all construction stages and ensures professional quality control."
       ],
-
       "listTitle": "Stages of Author Supervision",
       "list": [
         "Regular site visits",
@@ -921,15 +848,12 @@
         "Selection and ordering of decorative and finishing materials",
         "Approval of invoices, materials and equipment with the client"
       ],
-
       "contactText": "If you want to request author supervision — contact us.",
       "cta": "Contact us"
     },
-
     "guarantees": {
       "intro": "Guarantees",
       "title": "Design Service Guarantees",
-
       "text": [
         "We fully understand your concerns related to ordering interior design services and the upcoming renovation. Your worries often come from the fact that:",
         "• You are not sure whether the designer will deliver exactly what you want;",
@@ -941,19 +865,15 @@
         "Our Gallery contains more than 70 completed works — this is our guarantee.",
         "We are confident in our skills!"
       ],
-
       "cta": "Contact us"
     },
-
     "discounts": {
       "intro": "Interior Design Discounts",
       "title": "Discounts for Interior Design Projects",
-
       "text": [
         "For clients ordering interior design services, we offer several attractive discounts that help reduce the total project cost.",
         "The discounts apply to all types of design projects and are available for both apartments and private houses."
       ],
-
       "groupsTitle": "Group Application",
       "groups": [
         "Ordering design for two apartments in the same building — 5% discount",
@@ -961,18 +881,15 @@
         "Four or more — 15% discount",
         "The discount also applies to houses standing together"
       ],
-
       "areaTitle": "More Than 200 Square Meters",
       "area": [
         "If your home or apartment exceeds 200 m² — you receive a 5% discount",
         "For properties over 400 m² — discounts are discussed individually"
       ],
-
       "repairTitle": "When Ordering Renovation",
       "repair": [
         "If you order renovation from us — you receive a 10% discount on the design project"
       ],
-
       "multipleTitle": "Multiple Apartments With the Same Layout",
       "multiple": [
         "Bring one client — you get a personal 40% discount",
@@ -980,16 +897,13 @@
         "Ordering design together with renovation gives an additional discount",
         "If you don’t have time to find interested clients — we can do it for you"
       ],
-
       "ctaText": "Request this discount via the Contacts page or by calling:",
       "cta": "Contact Us"
     },
-
     "apartments": {
       "intro": "Apartment design and renovation",
       "title": "Apartment design and renovation",
       "subtitle": "Main sections",
-
       "overview": [
         "Apartment design features",
         "What we can offer you",
@@ -997,13 +911,11 @@
         "Apartment design cost",
         "Apartment renovation"
       ],
-
       "designText": [
         "Apartment design is a specific design field that has its own characteristics and differs from other interiors.",
         "Most of the works displayed in our studio gallery are dedicated to apartment design, as it is one of the most in-demand services.",
         "When creating an apartment design – and our studio’s prices will pleasantly surprise you – it is important to consider several key nuances."
       ],
-
       "rulesTitle": "Our basic principles",
       "rules": [
         "Small room area and complex layout.",
@@ -1013,10 +925,8 @@
         "Use the space as efficiently as possible: niches should be closed, storage integrated.",
         "When planning lighting, give preference to adjustable systems."
       ],
-
       "packagesTitle": "Design project packages",
       "packagesSubtitle": "Choose the most suitable design project composition",
-
       "packages": {
         "standard": {
           "name": "Standard project",
@@ -1034,10 +944,8 @@
           "composition": "14 drawings + 3D visualizations + specifications + author supervision + decoration"
         }
       },
-
       "recommended": "Recommended",
       "packagesCta": "Get a consultation",
-
       "servicesTitle": "What we offer",
       "services": [
         "Creation of 3D visualization of the apartment",
@@ -1048,14 +956,12 @@
         "Designer’s author supervision",
         "Apartment renovation and design implementation"
       ],
-
       "geoText": [
         "We provide apartment design services in Riga and all cities of Latvia.",
         "Designer visit in Riga is free of charge.",
         "In other regions only the travel cost is paid.",
         "EUROdizains offers three project packages — Standard, Premium and VIP."
       ],
-
       "repairTitle": "Apartment renovation",
       "repairText": [
         "Our main goal is to bring the developed design project to life.",
@@ -1065,7 +971,6 @@
         "You can order a VIP package or author supervision to ensure full project accuracy.",
         "Our portfolio includes many completed apartment projects, and clients trust us."
       ],
-
       "cta": "Contact us"
     },
     "houses": {
@@ -1079,7 +984,6 @@
         "Our advantages",
         "Renovation works"
       ],
-
       "designText": [
         "What makes a house warm and cozy? Original interior design. Human comfort at home depends on the surrounding environment.",
         "Creating a comfortable space for every family member is not easy, especially without experience or spatial thinking.",
@@ -1089,7 +993,6 @@
         "Choosing colours, furniture and decor is not always easy. A designer will prepare layout options, select materials and monitor the implementation.",
         "Professional house design includes sketches, 3D visualisation, adjustments, engineering plans and full supervision until completion."
       ],
-
       "rulesTitle": "What we offer",
       "rules": [
         "3D visualisation of your house interior.",
@@ -1099,10 +1002,8 @@
         "Author supervision during renovation.",
         "Complete renovation of your house."
       ],
-
       "packagesTitle": "Interior design packages",
       "packagesSubtitle": "Choose the design package that fits your needs",
-
       "packages": {
         "standard": {
           "name": "Standard",
@@ -1120,10 +1021,8 @@
           "composition": "14 drawings + 3D visualisation + specifications + author supervision + decoration"
         }
       },
-
       "recommended": "Recommended",
       "packagesCta": "Get a consultation",
-
       "servicesTitle": "Our advantages",
       "services": [
         "Respecting deadlines",
@@ -1131,14 +1030,12 @@
         "Additional drawings for free",
         "Free consultations on materials, furniture, heating and electricity"
       ],
-
       "geoText": [
         "We develop house interiors in Riga and throughout Latvia.",
         "Since 2010 we have completed numerous complex design projects.",
         "Choose author supervision or VIP package for perfect implementation.",
         "We always adjust the design according to your wishes."
       ],
-
       "repairTitle": "House renovation",
       "repairText": [
         "A design project is only the first step. Designer-builder cooperation is essential.",
@@ -1148,10 +1045,8 @@
         "Our craftsmen will create a warm and comfortable interior tailored to your needs.",
         "For additional information, contact us — we will gladly answer your questions."
       ],
-
       "cta": "Contact us"
     },
-
     "decoration": {
       "intro": "Decoration",
       "title": "Decoration",
@@ -1175,7 +1070,6 @@
         "Selecting equipment — kitchen and climate systems."
       ]
     },
-
     "interior": {
       "intro": "Interior Design",
       "title": "Interior Design of Public and Residential Spaces",
@@ -1189,7 +1083,6 @@
         "The work is typically divided into two stages: sketching and 3D visualization, followed by implementation during construction under designer supervision."
       ]
     },
-
     "office": {
       "intro": "Office Design",
       "title": "Office Interior Design",
@@ -1203,12 +1096,10 @@
         "The company’s face is the reception area. It must reflect the corporate style, look professional and create a comfortable atmosphere for visitors."
       ]
     },
-
     "restaurant": {
       "intro": "Restaurant Design",
       "title": "Cafe & Restaurant Interior Design",
       "cta": "Contact us",
-
       "text": [
         "Visiting a café or restaurant should bring joy and positive emotions. Customers first evaluate the interior and only then the food and service.",
         "A well-designed layout, furniture, lighting and color palette define the success and atmosphere of the restaurant.",
@@ -1218,7 +1109,6 @@
         "Using different styles for different halls often attracts more customers.",
         "Our main goal is to create a cozy atmosphere and give your restaurant a strong individuality."
       ],
-
       "offersTitle": "What we offer",
       "offers": [
         "Restaurant, café and bar design",
@@ -1226,7 +1116,6 @@
         "Individual approach, no templates",
         "Full design project development and realization"
       ],
-
       "includesTitle": "What is included",
       "includes": [
         "Scaled drawings of all rooms",
@@ -1239,7 +1128,6 @@
         "Material cost estimation"
       ]
     },
-
     "club": {
       "intro": "Nightclub Design",
       "title": "Nightclub Design in Riga",
@@ -1265,7 +1153,6 @@
       "cta": "Call Now"
     }
   },
-
   "contactPopup": {
     "title": "Contact us",
     "phoneLabel": "Phone number",
